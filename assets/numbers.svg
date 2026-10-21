@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" role="img" aria-label="By the numbers: 3 featured builds, working since 2023, 3 certificates, 3 client markets.">
+<defs>
+<linearGradient id="nBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071230"/><stop offset="1" stop-color="#04060C"/></linearGradient>
+</defs>
+<rect width="900" height="120" rx="18" fill="url(#nBg)"/>
+<g text-anchor="middle">
+<g><text x="112" y="58" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="36" fill="#FFFFFF">3</text><text x="112" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#E6EEFB" opacity="0.65">FEATURED BUILDS</text><rect x="82" y="94" width="60" height="2" fill="#F2C14E" opacity="0.8"/></g>
+<g><text x="337" y="58" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="36" fill="#FFFFFF">2023</text><text x="337" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#E6EEFB" opacity="0.65">WORKING SINCE</text><rect x="307" y="94" width="60" height="2" fill="#F2C14E" opacity="0.8"/></g>
+<g><text x="562" y="58" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="36" fill="#FFFFFF">3</text><text x="562" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#E6EEFB" opacity="0.65">CERTIFICATES</text><rect x="532" y="94" width="60" height="2" fill="#F2C14E" opacity="0.8"/></g>
+<g><text x="787" y="58" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="36" fill="#FFFFFF">3</text><text x="787" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#E6EEFB" opacity="0.65">CLIENT MARKETS</text><rect x="757" y="94" width="60" height="2" fill="#F2C14E" opacity="0.8"/></g>
+</g>
+</svg>
