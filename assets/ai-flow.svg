@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-label="AI automation and data: four-stage pipeline with moving particles and an animated bar chart of simulated data. Static preview.">
+<defs>
+<linearGradient id="aBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071230"/><stop offset="1" stop-color="#04060C"/></linearGradient>
+<linearGradient id="runGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1F6BFF"/><stop offset="1" stop-color="#22D3FF"/></linearGradient>
+<linearGradient id="barGrad" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1F6BFF"/><stop offset="1" stop-color="#22D3FF"/></linearGradient>
+</defs>
+<rect width="900" height="260" rx="18" fill="url(#aBg)"/>
+<text x="28" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#F2C14E">02 · AI AUTOMATION &amp; DATA</text>
+<text x="872" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#E6EEFB" opacity="0.45">STATIC PREVIEW</text>
+<g font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle">
+<g><rect x="28" y="44" width="132" height="26" rx="13" fill="#22D3FF"/><text x="94" y="61" fill="#04060C" font-weight="600">AI workflows</text></g>
+<g><rect x="168" y="44" width="132" height="26" rx="13" fill="none" stroke="#3D9BFF" stroke-opacity="0.5"/><text x="234" y="61" fill="#E6EEFB" opacity="0.7">Data viz</text></g>
+<g><rect x="308" y="44" width="132" height="26" rx="13" fill="none" stroke="#3D9BFF" stroke-opacity="0.5"/><text x="374" y="61" fill="#E6EEFB" opacity="0.7">Productivity</text></g>
+<g><rect x="448" y="44" width="132" height="26" rx="13" fill="none" stroke="#3D9BFF" stroke-opacity="0.5"/><text x="514" y="61" fill="#E6EEFB" opacity="0.7">Experiments</text></g>
+</g>
+<g stroke="#3D9BFF" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="4 4">
+<line x1="100" y1="122" x2="200" y2="122"/><line x1="240" y1="122" x2="340" y2="122"/><line x1="380" y1="122" x2="480" y2="122"/>
+</g>
+<g>
+<circle r="3.2" fill="#22D3FF"><animateMotion dur="3.6s" repeatCount="indefinite" path="M100,122 L480,122"/></circle>
+<circle r="3.2" fill="#F2C14E"><animateMotion dur="3.6s" begin="0.6s" repeatCount="indefinite" path="M100,122 L480,122"/></circle>
+<circle r="3.2" fill="#22D3FF"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" path="M100,122 L480,122"/></circle>
+<circle r="3.2" fill="#F2C14E"><animateMotion dur="3.6s" begin="1.8s" repeatCount="indefinite" path="M100,122 L480,122"/></circle>
+<circle r="3.2" fill="#22D3FF"><animateMotion dur="3.6s" begin="2.4s" repeatCount="indefinite" path="M100,122 L480,122"/></circle>
+<circle r="3.2" fill="#F2C14E"><animateMotion dur="3.6s" begin="3s" repeatCount="indefinite" path="M100,122 L480,122"/></circle>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" text-anchor="middle">
+<g><circle cx="80" cy="122" r="20" fill="#071230" stroke="#3D9BFF" stroke-width="2"/><text x="80" y="126" font-size="11" fill="#22D3FF">01</text><text x="80" y="162" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#E6EEFB">Trigger</text></g>
+<g><circle cx="220" cy="122" r="20" fill="#071230" stroke="#3D9BFF" stroke-width="2"/><text x="220" y="126" font-size="11" fill="#22D3FF">02</text><text x="220" y="162" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#E6EEFB">AI step</text></g>
+<g><circle cx="360" cy="122" r="20" fill="#071230" stroke="#3D9BFF" stroke-width="2"/><text x="360" y="126" font-size="11" fill="#22D3FF">03</text><text x="360" y="162" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#E6EEFB">Automate</text></g>
+<g><circle cx="500" cy="122" r="20" fill="#071230" stroke="#F2C14E" stroke-width="2"/><text x="500" y="126" font-size="11" fill="#F2C14E">04</text><text x="500" y="162" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="12.5" fill="#E6EEFB">Result</text></g>
+</g>
+<g><rect x="28" y="188" width="160" height="32" rx="16" fill="url(#runGrad)"/><text x="108" y="209" text-anchor="middle" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">▶ Run simulation</text></g>
+<text x="600" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#E6EEFB" opacity="0.6">OUTPUT · SIMULATED DATA</text>
+<g>
+<rect x="604" y="180" width="13" height="40" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="40;72;40" dur="4s" repeatCount="indefinite"/><animate attributeName="y" values="180;148;180" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="625.6" y="150" width="13" height="70" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="70;44;70" dur="4s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="y" values="150;176;150" dur="4s" begin="0.3s" repeatCount="indefinite"/></rect>
+<rect x="647.2" y="165" width="13" height="55" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="55;88;55" dur="4s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="y" values="165;132;165" dur="4s" begin="0.6s" repeatCount="indefinite"/></rect>
+<rect x="668.8" y="130" width="13" height="90" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="90;58;90" dur="4s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="y" values="130;162;130" dur="4s" begin="0.9s" repeatCount="indefinite"/></rect>
+<rect x="690.4" y="155" width="13" height="65" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="65;104;65" dur="4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="155;116;155" dur="4s" begin="1.2s" repeatCount="indefinite"/></rect>
+<rect x="712" y="110" width="13" height="110" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="110;76;110" dur="4s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="110;144;110" dur="4s" begin="1.5s" repeatCount="indefinite"/></rect>
+<rect x="733.6" y="140" width="13" height="80" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="80;118;80" dur="4s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="y" values="140;102;140" dur="4s" begin="1.8s" repeatCount="indefinite"/></rect>
+<rect x="755.2" y="100" width="13" height="120" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="120;84;120" dur="4s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="y" values="100;136;100" dur="4s" begin="2.1s" repeatCount="indefinite"/></rect>
+<rect x="776.8" y="125" width="13" height="95" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="95;60;95" dur="4s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="125;160;125" dur="4s" begin="2.4s" repeatCount="indefinite"/></rect>
+<rect x="798.4" y="160" width="13" height="60" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="60;96;60" dur="4s" begin="2.7s" repeatCount="indefinite"/><animate attributeName="y" values="160;124;160" dur="4s" begin="2.7s" repeatCount="indefinite"/></rect>
+<rect x="820" y="90" width="13" height="130" rx="2" fill="url(#barGrad)"><animate attributeName="height" values="130;92;130" dur="4s" begin="3s" repeatCount="indefinite"/><animate attributeName="y" values="90;128;90" dur="4s" begin="3s" repeatCount="indefinite"/></rect>
+<rect x="841.6" y="120" width="13" height="100" rx="2" fill="#F2C14E"><animate attributeName="height" values="100;132;100" dur="4s" begin="3.3s" repeatCount="indefinite"/><animate attributeName="y" values="120;88;120" dur="4s" begin="3.3s" repeatCount="indefinite"/></rect>
+<line x1="600" y1="220" x2="872" y2="220" stroke="#E6EEFB" stroke-opacity="0.35"/>
+</g>
+<text x="28" y="246" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#E6EEFB" opacity="0.6">Interactive concept — full simulation on the live page · Experiments: Fiverr Intelligence (in progress, design stage)</text>
+</svg>
