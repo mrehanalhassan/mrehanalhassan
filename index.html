@@ -95,9 +95,6 @@ section.on::before{border-color:var(--gold);background:var(--gold);box-shadow:0 
 <a href="https://www.linkedin.com/in/mrehanalhassan/" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn">in</a>
 <a href="https://www.facebook.com/MRehanAlHassan" target="_blank" rel="noopener" aria-label="Facebook" title="Facebook">f</a>
 <a href="https://mrehanalhassan.blogspot.com/" target="_blank" rel="noopener" aria-label="Website and blog" title="Website / blog">↗</a>
-<a href="https://www.fiverr.com/mrehanalhassan" target="_blank" rel="noopener" aria-label="Fiverr" title="Fiverr">fv</a>
-<a href="https://www.instagram.com/MRehanAlHassan/" target="_blank" rel="noopener" aria-label="Instagram" title="Instagram">ig</a>
-<a href="https://www.tiktok.com/@MRehanAlHassan" target="_blank" rel="noopener" aria-label="TikTok" title="TikTok">tk</a>
 <small>Scroll ↓</small></nav></div></div></article></section>
 
 <section class="rv"><div class="hd"><span>01</span><h2>Featured builds</h2><em>Hover to tilt</em></div><div class="feat" id="ft"></div></section>
@@ -122,7 +119,7 @@ const sc=$('#sc'),cv=$('#gl'),g=cv.getContext('2d'),tm=$('#tm');
 const K=[{n:'wordpress',l:'WordPress',g:'W',d:'business sites · redesigns · landing pages',o:0,a:-1,m:1},{n:'elementor-pro',l:'Elementor Pro',g:'E',d:'custom layouts · visual builds',o:0,a:1.1},{n:'kadence-pro',l:'Kadence Pro',g:'K',d:'flexible block-based builds',o:0,a:3.2},{n:'ai-automation',l:'AI Automation',g:'AI',d:'workflows · data tools · experiments',o:1,a:.3},{n:'graphic-design',l:'Graphic Design',g:'◐',d:'social · brand visuals',o:1,a:2.4},{n:'video-editing',l:'Video Editing',g:'▶',d:'promos · motion',o:1,a:4.5}];
 let sel=-1,hov=-1,W=400,H=320,px=0,py=0,t=0,ay=-.9,runH=true,runA=false,last=performance.now(),tt;
 const sp=K.map((k,i)=>{const b=document.createElement('button');b.className='sp s'+i;b.textContent=k.g;b.tabIndex=-1;b.setAttribute('aria-hidden','true');b.onpointerenter=()=>{hov=i;mark()};b.onpointerleave=()=>{hov=-1;mark()};b.onclick=()=>pick(i);sc.appendChild(b);return b});
-const ch=K.map((k,i)=>{const b=document.createElement('button');b.className='chip'+(k.m?' m':'');b.textContent=k.l;b.setAttribute('aria-pressed','false');b.onclick=()=>pick(i);b.onpointerenter=()=>{hov=i;mark()};b.onpointerleave=()=>{hov=-1;mark()};$('#ch').appendChild(b);return b});
+const ch=K.map((k,i)=>{const b=document.createElement('button');b.className='chip'+(k.m?' m':'');b.textContent=k.l;b.setAttribute('aria-pressed','false');b.onclick=()=>pick(i);b.onpointerenter=()=>{hov=i;mark()};b.onpointerleave=()=>{hov=-1;mark()};b.onclick=()=>pick(i);sc.appendChild(b);return b});
 function mark(){K.forEach((_,i)=>{sp[i].classList.toggle('hot',i===hov||i===sel);ch[i].classList.toggle('hot',i===hov)})}
 function pick(i){sel=sel===i?-1:i;ch.forEach((c,j)=>c.setAttribute('aria-pressed',j===sel));mark();say()}
 function say(){const L=sel<0?['$ rehan --focus','> wordpress · elementor · kadence','> clients: usa · uk · canada']:['$ rehan --skill '+K[sel].n,'> '+K[sel].d];
@@ -149,7 +146,7 @@ e.style.transform='translate('+(x-e.offsetWidth/2).toFixed(1)+'px,'+(y-e.offsetH
 new ResizeObserver(size).observe(sc);new IntersectionObserver(e=>runH=e[0].isIntersecting).observe(sc);
 if(!rm){sc.addEventListener('pointermove',e=>{const r=sc.getBoundingClientRect();px=(e.clientX-r.left)/r.width-.5;py=(e.clientY-r.top)/r.height-.5});sc.addEventListener('pointerleave',()=>{px=py=0})}
 /* ---- featured builds (ONLY these three) ---- */
-const SITES=[{n:'T-Umbrella',u:'https://t-umbrella.com/',h:212},{n:'The Allied School Mulhal',u:'https://thealliedschoolmulhal.com/',h:228},{n:'Dar e Arqam School Khanpur',u:'https://darearqamschoolkhanpur.com/',h:196}];
+const SITES=[{n:'T-Minus Umbrella',u:'https://tminusumbrella.com/',h:212},{n:'Dialide School',u:'',h:228},{n:'Darehr',u:'https://darehr.com/',h:196}]; // set Dialide School url once confirmed
 $('#ft').innerHTML='';SITES.forEach(s=>{const a=document.createElement(s.u?'a':'div');a.className='st'+(s.u?'':' pend');if(s.u){a.href=s.u;a.target='_blank';a.rel='noopener'}a.style.setProperty('--h',s.h);
 const dom=s.u?s.u.replace(/^https:\/\/|\/$/g,''):'link to be confirmed';
 a.innerHTML='<div class="scr"><div class="bar"><i></i><i></i><i></i><span>'+dom+'</span></div><div class="pg"><b></b><u></u><u></u><div><s></s><s></s><s></s></div></div></div><div class="cap"><b>'+s.n+'</b><span>'+(s.u?'Visit ↗':'Pending')+'</span></div>';
