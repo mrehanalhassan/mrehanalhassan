@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-label="M Rehan Al Hassan — WordPress Developer, Digital Creator, AI Automation. Animated profile banner.">
+<defs>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071230"/><stop offset="1" stop-color="#04060C"/></linearGradient>
+<radialGradient id="globeGrad" cx="0.35" cy="0.3" r="0.95"><stop offset="0" stop-color="#3D9BFF" stop-opacity="0.55"/><stop offset="1" stop-color="#071230"/></radialGradient>
+<radialGradient id="glossGold" cx="0.32" cy="0.28" r="0.95"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.95"/><stop offset="0.35" stop-color="#F2C14E"/><stop offset="1" stop-color="#04060C" stop-opacity="0.55"/></radialGradient>
+<radialGradient id="glossBlue" cx="0.32" cy="0.28" r="0.95"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.9"/><stop offset="0.35" stop-color="#3D9BFF"/><stop offset="1" stop-color="#04060C" stop-opacity="0.6"/></radialGradient>
+<radialGradient id="glossCyan" cx="0.32" cy="0.28" r="0.95"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.9"/><stop offset="0.35" stop-color="#22D3FF"/><stop offset="1" stop-color="#04060C" stop-opacity="0.6"/></radialGradient>
+<radialGradient id="glossWhite" cx="0.32" cy="0.28" r="0.95"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.45" stop-color="#E6EEFB"/><stop offset="1" stop-color="#04060C" stop-opacity="0.4"/></radialGradient>
+<radialGradient id="blobBlue"><stop offset="0" stop-color="#1F6BFF" stop-opacity="0.5"/><stop offset="1" stop-color="#1F6BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="blobCyan"><stop offset="0" stop-color="#22D3FF" stop-opacity="0.28"/><stop offset="1" stop-color="#22D3FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="blobGold"><stop offset="0" stop-color="#F2C14E" stop-opacity="0.2"/><stop offset="1" stop-color="#F2C14E" stop-opacity="0"/></radialGradient>
+<linearGradient id="goldText" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F2C14E"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="42"/></filter>
+<pattern id="dotPat" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="4.5" cy="4.5" r="1.4" fill="#E6EEFB" fill-opacity="0.75"/></pattern>
+<clipPath id="globeClip"><circle cx="200" cy="205" r="105"/></clipPath>
+<clipPath id="termClip"><rect x="412" y="228" width="0" height="96"><animate attributeName="width" values="0;436;436;0" keyTimes="0;0.35;0.8;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="900" height="420" fill="url(#bgGrad)"/>
+<g filter="url(#soft)" opacity="0.85">
+<circle cx="120" cy="80" r="150" fill="url(#blobBlue)"><animateTransform attributeName="transform" type="translate" values="0 0;40 30;0 0" dur="14s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="330" r="130" fill="url(#blobCyan)"><animateTransform attributeName="transform" type="translate" values="0 0;-30 -24;0 0" dur="18s" repeatCount="indefinite"/></circle>
+<circle cx="460" cy="430" r="110" fill="url(#blobGold)"><animateTransform attributeName="transform" type="translate" values="0 0;24 -18;0 0" dur="12s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#F2C14E" stroke-width="2.5" fill="none" opacity="0.9">
+<path d="M14,36 V14 H36"/><path d="M864,36 V14 H886"/><path d="M14,384 V406 H36"/><path d="M864,384 V406 H886"/>
+</g>
+<text x="95" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2" fill="#E6EEFB" opacity="0.6">CLIENTS · USA · UK · CAN</text>
+<g>
+<circle cx="200" cy="205" r="105" fill="url(#globeGrad)" stroke="#22D3FF" stroke-opacity="0.5" stroke-width="1.5"/>
+<rect x="95" y="100" width="210" height="210" fill="url(#dotPat)" clip-path="url(#globeClip)" opacity="0.8"/>
+<g fill="none" stroke="#3D9BFF" stroke-opacity="0.4" stroke-width="1">
+<ellipse cx="200" cy="205" rx="105" ry="38"/><ellipse cx="200" cy="205" rx="105" ry="76"/><ellipse cx="200" cy="205" rx="58" ry="105"/><ellipse cx="200" cy="205" rx="105" ry="105"/>
+</g>
+<ellipse cx="200" cy="205" rx="105" ry="34" fill="none" stroke="#22D3FF" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="6 10">
+<animateTransform attributeName="transform" type="rotate" from="0 200 205" to="360 200 205" dur="36s" repeatCount="indefinite"/>
+</ellipse>
+<g fill="none" stroke="#F2C14E" stroke-opacity="0.55" stroke-width="1.5">
+<path d="M262,162 Q190,70 128,128"/><path d="M262,162 Q232,96 196,101"/><path d="M262,162 Q160,150 98,192"/>
+</g>
+<g fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 45">
+<path d="M262,162 Q190,70 128,128"><animate attributeName="stroke-dashoffset" from="48" to="0" dur="2.4s" repeatCount="indefinite"/></path>
+<path d="M262,162 Q232,96 196,101"><animate attributeName="stroke-dashoffset" from="48" to="0" dur="3s" begin="0.5s" repeatCount="indefinite"/></path>
+<path d="M262,162 Q160,150 98,192"><animate attributeName="stroke-dashoffset" from="48" to="0" dur="3.6s" begin="1s" repeatCount="indefinite"/></path>
+</g>
+<circle r="2.6" fill="#FFFFFF"><animateMotion dur="3s" repeatCount="indefinite" path="M262,162 Q190,70 128,128"/></circle>
+<circle r="2.6" fill="#FFFFFF"><animateMotion dur="3.6s" begin="0.4s" repeatCount="indefinite" path="M262,162 Q232,96 196,101"/></circle>
+<circle r="2.6" fill="#FFFFFF"><animateMotion dur="4.2s" begin="0.8s" repeatCount="indefinite" path="M262,162 Q160,150 98,192"/></circle>
+<g fill="#FFFFFF"><circle cx="128" cy="128" r="2.5"/><circle cx="196" cy="101" r="2.5"/><circle cx="98" cy="192" r="2.5"/></g>
+<circle cx="262" cy="162" r="9" fill="#F2C14E" opacity="0.25"/><circle cx="262" cy="162" r="4" fill="#F2C14E"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#E6EEFB">
+<text x="104" y="118">USA</text><text x="186" y="90">UK</text><text x="72" y="186">CAN</text>
+</g>
+<text x="272" y="156" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#F2C14E">PAKISTAN</text>
+</g>
+<g font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" text-anchor="middle">
+<g><circle r="19" fill="url(#glossGold)" stroke="#F2C14E" stroke-width="1.5"/><text y="6" font-size="16" fill="#04060C">W</text><animateMotion dur="16s" repeatCount="indefinite" path="M95,205 a105,52 0 1 0 210,0 a105,52 0 1 0 -210,0"/></g>
+<g><circle r="13" fill="url(#glossBlue)"/><text y="4.5" font-size="12" fill="#FFFFFF">E</text><animateMotion dur="16s" begin="-8s" repeatCount="indefinite" path="M95,205 a105,52 0 1 0 210,0 a105,52 0 1 0 -210,0"/></g>
+<g><circle r="13" fill="url(#glossCyan)"/><text y="4.5" font-size="12" fill="#04060C">K</text><animateMotion dur="22s" begin="-5s" repeatCount="indefinite" path="M95,205 a105,52 0 1 0 210,0 a105,52 0 1 0 -210,0"/></g>
+<g><circle r="12" fill="url(#glossBlue)"/><text y="4" font-size="9" fill="#FFFFFF">AI</text><animateMotion dur="26s" repeatCount="indefinite" path="M70,205 a130,72 0 1 0 260,0 a130,72 0 1 0 -260,0"/></g>
+<g><circle r="12" fill="url(#glossWhite)"/><text y="4.5" font-size="11" fill="#04060C">◐</text><animateMotion dur="30s" begin="-10s" repeatCount="indefinite" path="M70,205 a130,72 0 1 0 260,0 a130,72 0 1 0 -260,0"/></g>
+<g><circle r="12" fill="url(#glossBlue)"/><text y="4.5" font-size="10" fill="#FFFFFF">▶</text><animateMotion dur="34s" begin="-20s" repeatCount="indefinite" path="M70,205 a130,72 0 1 0 260,0 a130,72 0 1 0 -260,0"/></g>
+</g>
+<text x="400" y="100" font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="46"><tspan fill="#FFFFFF">M Rehan </tspan><tspan fill="url(#goldText)">Al Hassan</tspan></text>
+<text x="402" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#22D3FF">WORDPRESS DEVELOPER · DIGITAL CREATOR · AI AUTOMATION</text>
+<g font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle">
+<g><rect x="400" y="148" width="148" height="30" rx="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#F2C14E" stroke-width="1.2"/><text x="474" y="168" fill="#F2C14E">WordPress</text></g>
+<g><rect x="556" y="148" width="148" height="30" rx="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="630" y="168" fill="#E6EEFB">Elementor Pro</text></g>
+<g><rect x="712" y="148" width="148" height="30" rx="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="786" y="168" fill="#E6EEFB">Kadence Pro</text></g>
+<g><rect x="400" y="186" width="148" height="30" rx="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="474" y="206" fill="#E6EEFB">AI Automation</text></g>
+<g><rect x="556" y="186" width="148" height="30" rx="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="630" y="206" fill="#E6EEFB">Graphic Design</text></g>
+<g><rect x="712" y="186" width="148" height="30" rx="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="786" y="206" fill="#E6EEFB">Video Editing</text></g>
+</g>
+<rect x="400" y="228" width="460" height="96" rx="10" fill="#04060C" fill-opacity="0.65" stroke="#1F6BFF" stroke-opacity="0.35"/>
+<g clip-path="url(#termClip)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5">
+<text x="414" y="254"><tspan fill="#F2C14E">$</tspan><tspan fill="#E6EEFB"> rehan --focus</tspan></text>
+<text x="414" y="278" fill="#E6EEFB">> wordpress · elementor · kadence</text>
+<text x="414" y="302" fill="#E6EEFB">> clients: usa · uk · canada</text>
+</g>
+<rect x="533" y="242" width="8" height="15" fill="#22D3FF"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+<g font-family="Segoe UI,system-ui,-apple-system,Helvetica,Arial,sans-serif" font-weight="700" font-size="13" text-anchor="middle">
+<g><circle cx="415" cy="356" r="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="415" y="361" fill="#E6EEFB">in</text><text x="415" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="500" font-size="9.5" fill="#E6EEFB" opacity="0.6">LinkedIn</text></g>
+<g><circle cx="457" cy="356" r="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="457" y="361" fill="#E6EEFB">f</text><text x="457" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="500" font-size="9.5" fill="#E6EEFB" opacity="0.6">Facebook</text></g>
+<g><circle cx="499" cy="356" r="15" fill="#1F6BFF" fill-opacity="0.14" stroke="#3D9BFF" stroke-opacity="0.6"/><text x="499" y="361" fill="#E6EEFB">↗</text><text x="499" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-weight="500" font-size="9.5" fill="#E6EEFB" opacity="0.6">Blog</text></g>
+</g>
+<text x="560" y="360" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#E6EEFB" opacity="0.55">↓ real links in profile below</text>
+</svg>
