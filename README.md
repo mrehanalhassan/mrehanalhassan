@@ -1,49 +1,36 @@
 <div align="center">
-
-<a href="https://mrehanalhassan.github.io/mrehanalhassan/">
-<img width="100%" src="banner.svg" alt="M Rehan Al Hassan — open the interactive profile"/>
+<a href="https://mrehanalhassan.github.io/mrehanalhassan/" title="Open the live interactive page">
+<img width="100%" src="hero.svg" alt="M Rehan Al Hassan — WordPress Developer, Digital Creator, AI Automation"/>
 </a>
+</div>
 
-### This profile is now an interactive journey ✨
+<div align="center">
+<a href="https://mrehanalhassan.github.io/mrehanalhassan/" title="Open the live interactive page">
+<img width="100%" src="builds.svg" alt="Featured builds — T-Umbrella, The Allied School Mulhal, Dar e Arqam School Khanpur"/>
+</a>
+</div>
 
-**[▶ Open the full interactive experience](https://mrehanalhassan.github.io/mrehanalhassan/)**
+<div align="center">
+<a href="https://mrehanalhassan.github.io/mrehanalhassan/" title="Open the live interactive page">
+<img width="100%" src="ai.svg" alt="AI automation and data — interactive concept"/>
+</a>
+</div>
 
-*Animated client globe · clickable skill orbit · 3D-tilt project cards · live AI data simulation — all running in your browser.*
-
+<div align="center">
+<a href="https://mrehanalhassan.github.io/mrehanalhassan/" title="Open the live interactive page">
+<img width="100%" src="numbers.svg" alt="By the numbers — 3 featured builds, working since 2023, 3 certificates, 3 client markets"/>
+</a>
 </div>
 
 ---
 
-## 💼 Featured builds
+### 🔗 Featured builds
 
-| Project | Link |
-|:--------|:-----|
-| **T-Umbrella** | [t-umbrella.com](https://t-umbrella.com/) |
-| **The Allied School Mulhal** | [thealliedschoolmulhal.com](https://thealliedschoolmulhal.com/) |
-| **Dar e Arqam School Khanpur** | [darearqamschoolkhanpur.com](https://darearqamschoolkhanpur.com/) |
+- 💼 **T-Umbrella** — [t-umbrella.com](https://t-umbrella.com/)
+- 🏫 **The Allied School Mulhal** — [thealliedschoolmulhal.com](https://thealliedschoolmulhal.com/)
+- 🏫 **Dar e Arqam School Khanpur** — [darearqamschoolkhanpur.com](https://darearqamschoolkhanpur.com/)
 
-*On the interactive page each build card tilts in 3D as you hover — go try it.*
-
----
-
-## 🤖 AI automation & data
-
-An interactive concept lab on the live page — switch tabs, hit **Run simulation**, watch the data flow:
-
-- **AI workflows** — intelligent workflows that route and complete tasks
-- **Data viz** — raw data turned into readable visuals
-- **Productivity** — AI-assisted productivity flow
-- **Experiments** — including *Fiverr Intelligence*, a Chrome extension (design stage)
-
----
-
-## 📊 By the numbers
-
-**3** featured builds · **2023** working since · **3** certificates · **3** client markets (USA · UK · Canada)
-
----
-
-## 🤝 Connect
+### 🤝 Connect
 
 <div align="center">
 
@@ -59,3 +46,5 @@ An interactive concept lab on the live page — switch tabs, hit **Run simulatio
 📩 [therehanco@gmail.com](mailto:therehanco@gmail.com?subject=Project%20inquiry)
 
 </div>
+
+> *This page is the static portrait of the [live interactive experience](https://mrehanalhassan.github.io/mrehanalhassan/) — click any section above to explore it live: animated client globe, clickable skill orbit, 3D-tilt project cards and the AI simulation.*
