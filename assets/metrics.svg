@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
-<title id="title">Profile metrics</title><desc id="desc">A compact custom-coded statistics strip highlighting featured builds, working since 2023, credentials, and client markets.</desc>
-<rect width="1200" height="142" rx="18" fill="#070B13" stroke="#203754"/>
-<path d="M300 22V120M600 22V120M900 22V120" stroke="#28405F" stroke-width="1"/>
-<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><text x="150" y="65" font-size="35" font-weight="700" fill="#FFFFFF">03</text><text x="150" y="91" font-size="11" letter-spacing="1.8" fill="#8DBBFF">FEATURED BUILDS</text><circle cx="150" cy="112" r="3" fill="#2563FF"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
-<text x="450" y="65" font-size="35" font-weight="700" fill="#FFFFFF">2023</text><text x="450" y="91" font-size="11" letter-spacing="1.8" fill="#8DBBFF">WORKING SINCE</text><circle cx="450" cy="112" r="3" fill="#4DA3FF"><animate attributeName="opacity" values=".25;1;.25" dur="2.5s" repeatCount="indefinite"/></circle>
-<text x="750" y="65" font-size="35" font-weight="700" fill="#D4AF62">03</text><text x="750" y="91" font-size="11" letter-spacing="1.8" fill="#E9D29A">CERTIFICATES</text><circle cx="750" cy="112" r="3" fill="#D4AF62"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/></circle>
-<text x="1050" y="65" font-size="35" font-weight="700" fill="#FFFFFF">03</text><text x="1050" y="91" font-size="11" letter-spacing="1.8" fill="#8DBBFF">CLIENT MARKETS</text><text x="1050" y="112" font-size="10" fill="#A9B9CF">USA · UK · CANADA</text></g>
-</svg>
