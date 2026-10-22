@@ -1,36 +1,10 @@
-# M Rehan Al Hassan
-### WordPress Developer · Digital Creator · AI Automation
-Pakistan · Clients: USA · UK · Canada
+<img src="assets/hero.svg" alt="M Rehan Al Hassan — WordPress Developer · Digital Creator · AI Automation" />
 
 [LinkedIn](https://www.linkedin.com/in/mrehanalhassan/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
 
 ---
 
 ## Skills
-
-```mermaid
-flowchart TD
-    ME(["M Rehan Al Hassan<br/>WordPress Developer · Digital Creator · AI Automation"])
-    WP["WordPress<br/>main focus"]
-    EL["Elementor Pro"]
-    KA["Kadence Pro"]
-    AI["AI Automation"]
-    GD["Graphic Design"]
-    VE["Video Editing"]
-    ME --> WP & EL & KA & AI & GD & VE
-    WP --> WP1["Business sites · redesigns · landing pages"]
-    EL --> EL1["Custom layouts · visual builds"]
-    KA --> KA1["Lightweight fast sites"]
-    AI --> AI1["Workflows · data tools"]
-    GD --> GD1["Branding · creatives"]
-    VE --> VE1["Edits · motion design"]
-    classDef me fill:#0B1B33,stroke:#FFD166,stroke-width:3px,color:#FFFFFF
-    classDef skill fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
-    classDef sub fill:#161B22,stroke:#1F6FEB,stroke-width:1px,color:#C9D1D9
-    class ME me
-    class WP,EL,KA,AI,GD,VE skill
-    class WP1,EL1,KA1,AI1,GD1,VE1 sub
-```
 
 <details>
 <summary><b>WordPress</b> — main focus</summary>
@@ -96,48 +70,25 @@ $ rehan --skill video-editing
 
 ## Featured builds
 
-```mermaid
-flowchart LR
-    T["T-Minus Umbrella<br/>tminusumbrella.com"]
-    D["Dialide School<br/>link to be confirmed"]
-    R["Darehr<br/>darehr.com"]
-    T --> D --> R
-    classDef build fill:#0B1B33,stroke:#1F6FEB,stroke-width:2px,color:#FFFFFF
-    classDef pending fill:#161B22,stroke:#8B949E,stroke-width:1px,stroke-dasharray:5 5,color:#8B949E
-    class T,R build
-    class D pending
-```
-
-- [T-Minus Umbrella →](https://tminusumbrella.com/)
-- Dialide School — link to be confirmed
-- [Darehr →](https://darehr.com/)
+<table>
+<tr>
+<td><a href="https://tminusumbrella.com/"><img src="assets/build-tminus.svg" alt="T-Minus Umbrella" /></a></td>
+<td><img src="assets/build-dialide.svg" alt="Dialide School — link to be confirmed" /></td>
+<td><a href="https://darehr.com/"><img src="assets/build-darehr.svg" alt="Darehr" /></a></td>
+</tr>
+</table>
 
 ---
 
-## By the numbers
+## AI automation & data
 
-```mermaid
-flowchart LR
-    B["3<br/>featured builds"]
-    Y["2023<br/>working since"]
-    C["3<br/>certificates"]
-    M["3<br/>client markets<br/>USA · UK · Canada"]
-    classDef stat fill:#FFD166,stroke:#0B1B33,stroke-width:2px,color:#0B1B33
-    class B,Y,C,M stat
-```
-
----
-
-## AI automation and data
+<img src="assets/ai-flow.svg" alt="AI automation and data — concept" />
 
 <details>
 <summary><b>AI workflows</b> — click to open</summary>
 
-```mermaid
-flowchart LR
-    TR["Trigger"] --> AS["AI step"] --> AM["Automate"] --> RE["Result"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
-    class TR,AS,AM,RE step
+```
+Trigger → AI step → Automate → Result
 ```
 
 </details>
@@ -145,11 +96,9 @@ flowchart LR
 <details>
 <summary><b>Data viz</b> — click to open</summary>
 
-```mermaid
-flowchart LR
-    SO["Sources"] --> CL["Clean"] --> AN["Analyze"] --> DA["Dashboard"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
-    class SO,CL,AN,DA step
+```
+Sources → Clean → Analyze → Dashboard
+Concept: raw data turned into readable visuals.
 ```
 
 </details>
@@ -157,11 +106,8 @@ flowchart LR
 <details>
 <summary><b>Productivity</b> — click to open</summary>
 
-```mermaid
-flowchart LR
-    IN["Input"] --> AA["AI assist"] --> DR["Draft"] --> RV["Review"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
-    class IN,AA,DR,RV step
+```
+Input → AI assist → Draft → Review
 ```
 
 </details>
@@ -169,14 +115,17 @@ flowchart LR
 <details>
 <summary><b>Experiments</b> — click to open</summary>
 
-```mermaid
-flowchart LR
-    ID["Idea"] --> PR["Prototype"] --> TE["Test"] --> IT["Iterate"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
-    class ID,PR,TE,IT step
+```
+Idea → Prototype → Test → Iterate
 ```
 
 </details>
+
+---
+
+## By the numbers
+
+<img src="assets/numbers.svg" alt="3 featured builds · working since 2023 · 3 certificates · 3 client markets" />
 
 ---
 
@@ -196,5 +145,3 @@ flowchart LR
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mrehanalhassan/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
-
-*100% code — no images, no files, no embeds.*
