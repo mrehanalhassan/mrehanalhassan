@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">M Rehan Al Hassan — Digital Builder</title><desc id="desc">A custom-coded cinematic blue and gold interface with animated orbital nodes and a digital grid.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070D"/><stop offset=".55" stop-color="#09182D"/><stop offset="1" stop-color="#07101E"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563FF" stop-opacity="0"/><stop offset=".5" stop-color="#4DA3FF"/><stop offset="1" stop-color="#D4AF62" stop-opacity="0"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#2563FF" stop-opacity=".32"/><stop offset="1" stop-color="#2563FF" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#4DA3FF" stroke-opacity=".10" stroke-width="1"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="14"/></filter>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<ellipse cx="930" cy="170" rx="250" ry="210" fill="url(#glow)"/>
+<circle cx="935" cy="174" r="105" fill="none" stroke="#2563FF" stroke-opacity=".28" stroke-width="1.5"/>
+<circle cx="935" cy="174" r="76" fill="none" stroke="#D4AF62" stroke-opacity=".55" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0 935 174" to="360 935 174" dur="42s" repeatCount="indefinite"/></circle>
+<ellipse cx="935" cy="174" rx="148" ry="52" fill="none" stroke="#4DA3FF" stroke-opacity=".5" transform="rotate(-32 935 174)"/>
+<ellipse cx="935" cy="174" rx="148" ry="52" fill="none" stroke="#2563FF" stroke-opacity=".45" transform="rotate(48 935 174)"/>
+<circle cx="935" cy="174" r="30" fill="#0C2445" stroke="#4DA3FF" stroke-width="1.5"/><circle cx="935" cy="174" r="12" fill="#2563FF"><animate attributeName="r" values="10;14;10" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="814" cy="117" r="4" fill="#D4AF62"><animate attributeName="opacity" values=".35;1;.35" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="1055" cy="215" r="4" fill="#4DA3FF"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="989" cy="69" r="3" fill="#D4AF62"><animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<path d="M40 286H1160" stroke="url(#line)" stroke-width="1.5"/>
+<rect x="48" y="42" width="8" height="8" rx="2" fill="#D4AF62"/><text x="68" y="50" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3" fill="#D4AF62">PERSONAL DIGITAL PROFILE / 2026</text>
+<text x="48" y="124" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1.2" fill="#FFFFFF">M REHAN AL HASSAN</text>
+<text x="50" y="164" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#A9C9F7">WordPress Developer <tspan fill="#D4AF62">/</tspan> Digital Creator <tspan fill="#D4AF62">/</tspan> AI Automation</text>
+<text x="50" y="207" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#D7E3F5">Web experiences · Visual design · Intelligent workflows</text>
+<g transform="translate(50 236)"><rect width="132" height="28" rx="14" fill="#10284A" stroke="#2563FF"/><text x="66" y="18" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#FFFFFF">BUILD</text><rect x="143" width="132" height="28" rx="14" fill="#10284A" stroke="#4DA3FF"/><text x="209" y="18" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#FFFFFF">DESIGN</text><rect x="286" width="132" height="28" rx="14" fill="#211D16" stroke="#D4AF62"/><text x="352" y="18" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#F5D99B">AUTOMATE</text></g>
+<text x="50" y="326" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.4" fill="#8196B5">PAKISTAN  ·  WORKING WITH DIGITAL PROJECTS</text>
+<text x="1150" y="326" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.4" fill="#8196B5">DESIGNED IN CODE</text>
+</svg>
