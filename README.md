@@ -1,18 +1,18 @@
 <!--
 PROFILE README — INLINE TEXT / MARKDOWN / SUPPORTED HTML ONLY
 No SVG, no images, no GIFs, no external assets, no separate preview files.
-GitHub README does not support custom CSS/JavaScript animation or reliable gradient backgrounds.
+GitHub strips most custom CSS and does not run JavaScript in README content.
 -->
 
 <div align="center">
 
-# M Rehan Al Hassan
+🔵　⚪　🟡　**M REHAN AL HASSAN**　🟡　⚪　🔵
 
 **WORDPRESS DEVELOPER · DIGITAL CREATOR · AI AUTOMATION**
 
 Building websites, creative digital experiences, and practical workflows.
 
-[LinkedIn](https://www.linkedin.com/in/mrehanalhassan/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Email](mailto:therehanco@gmail.com?subject=Project%20inquiry)
+[LinkedIn](https://www.linkedin.com/in/mrehanalhassan/)　🔹　[Facebook](https://www.facebook.com/MRehanAlHassan)　🔹　[Blog](https://mrehanalhassan.blogspot.com/)　🔹　[Email](mailto:therehanco@gmail.com?subject=Project%20inquiry)
 
 </div>
 
@@ -20,13 +20,15 @@ Building websites, creative digital experiences, and practical workflows.
 
 <div align="center">
 
-**[OVERVIEW](#overview)　/　[SKILLS](#skill-cards)　/　[BUILDS](#featured-builds)　/　[CERTIFICATES](#certificates)　/　[CONTACT](#contact)**
+🔵 **[OVERVIEW](#overview)**　⚪ **[SKILLS](#skill-cards)**　🟡 **[BUILDS](#featured-builds)**　🔵 **[CERTIFICATES](#certificates)**　⚪ **[CONTACT](#contact)**
 
-**WEB**　━━━━━━━━━━　**DESIGN**　━━━━━━━━━━　**AUTOMATION**
+🔵━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🟡
+
+**WEB**　→　**DESIGN**　→　**AUTOMATION**
 
 </div>
 
-## Overview
+## 🔵 Overview
 
 <table>
 <tr>
@@ -34,35 +36,35 @@ Building websites, creative digital experiences, and practical workflows.
 
 ### 03
 
-Featured builds
+**Featured builds**
 
 </td>
 <td align="center" width="25%">
 
 ### 2023
 
-Working since
+**Working since**
 
 </td>
 <td align="center" width="25%">
 
 ### 03
 
-Certificates
+**Certificates**
 
 </td>
 <td align="center" width="25%">
 
 ### 03
 
-Client markets
+**Client markets**
 
 </td>
 </tr>
 <tr>
 <td colspan="4" align="center">
 
-**USA · UK · CANADA** — client markets
+🔵 **USA**　⚪ **UK**　🟡 **CANADA**
 
 </td>
 </tr>
@@ -70,15 +72,15 @@ Client markets
 
 <sub>Profile summary figures; not independently verified performance or client outcome metrics.</sub>
 
-## Skill cards
+## ⚪ Skill cards
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / WEB DEVELOPMENT
+🔵 **01 / WEB DEVELOPMENT**
 
-**WordPress · Elementor · Kadence**
+### WordPress · Elementor · Kadence
 
 - Business websites
 - Elementor / Elementor Pro
@@ -89,9 +91,9 @@ Client markets
 </td>
 <td width="50%" valign="top">
 
-### 02 / CREATIVE STUDIO
+🟡 **02 / CREATIVE STUDIO**
 
-**Design · Video · Digital Content**
+### Design · Video · Digital Content
 
 - Graphic design and branding
 - Video editing
@@ -104,9 +106,9 @@ Client markets
 <tr>
 <td width="50%" valign="top">
 
-### 03 / AI + AUTOMATION
+🟡 **03 / AI + AUTOMATION**
 
-**Workflows · Data · Productivity**
+### Workflows · Data · Productivity
 
 - AI-assisted workflows
 - Productivity tool concepts
@@ -117,9 +119,9 @@ Client markets
 </td>
 <td width="50%" valign="top">
 
-### 04 / HOW I WORK
+🔵 **04 / HOW I WORK**
 
-**Understand → Structure → Build → Refine**
+### Understand → Structure → Build
 
 - Clarify the goal
 - Organize the information
@@ -131,33 +133,33 @@ Client markets
 </table>
 
 <details>
-<summary><strong>Open the web development card</strong></summary>
+<summary>🔵 <strong>Explore web development</strong></summary>
 
 WordPress-focused work covering business websites, Elementor page building, Kadence layouts, landing pages, content structure, and visual redesigns.
 
 </details>
 
 <details>
-<summary><strong>Open the creative studio card</strong></summary>
+<summary>🟡 <strong>Explore the creative studio</strong></summary>
 
 Creative work across graphic design, branding, video editing, motion design, and digital content prepared for online platforms.
 
 </details>
 
 <details>
-<summary><strong>Open the AI + automation card</strong></summary>
+<summary>⚪ <strong>Explore AI + automation</strong></summary>
 
 Exploring AI-assisted workflows, small productivity tools, structured data, and ways to reduce repetitive digital work.
 
 </details>
 
-## Featured builds
+## 🟡 Featured builds
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**01 / T-MINUS UMBRELLA**
+🔵 **01 / T-MINUS UMBRELLA**
 
 Featured website project.
 
@@ -166,7 +168,7 @@ Featured website project.
 </td>
 <td width="33%" valign="top">
 
-**02 / DIALIDE SCHOOL**
+⚪ **02 / DIALIDE SCHOOL**
 
 Featured website project.
 
@@ -175,7 +177,7 @@ Website link to be added after confirmation.
 </td>
 <td width="33%" valign="top">
 
-**03 / DAREHR**
+🟡 **03 / DAREHR**
 
 Featured website project.
 
@@ -185,13 +187,23 @@ Featured website project.
 </tr>
 </table>
 
-## Workflow cards
+## 🔵 Motion-inspired workflow
+
+<div align="center">
+
+**01 CAPTURE**　→　**02 ORGANIZE**　→　**03 BUILD**　→　**04 REFINE**　↻
+
+🔵━━━━━━━━━━⚪━━━━━━━━━━🟡━━━━━━━━━━🔵
+
+<sub>A visual loop representing how I approach digital projects.</sub>
+
+</div>
 
 | **01 / INPUT** | **02 / ORGANIZE** | **03 / ACTION** | **04 / OUTPUT** |
 |:---:|:---:|:---:|:---:|
 | Gather information | Structure the steps | Build or automate | Review the result |
 
-## Certificates
+## ⚪ Certificates
 
 | Certificate | Provider | Date |
 |:---|:---|:---|
@@ -199,24 +211,24 @@ Featured website project.
 | Professional Video Editing and Motion Design | Info Tech Institute | June 2023 |
 | Creative Graphic Design and Branding | Info Tech Institute | May 2022 |
 
-## Contact
+## 🟡 Contact
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**BASE**
+🔵 **BASE**
 
 Chakwal, Pakistan
 
-**CLIENT MARKETS**
+⚪ **CLIENT MARKETS**
 
 USA · UK · Canada
 
 </td>
 <td width="50%" valign="top">
 
-**LET'S CONNECT**
+🟡 **LET'S CONNECT**
 
 [LinkedIn](https://www.linkedin.com/in/mrehanalhassan/)
 
@@ -232,6 +244,10 @@ USA · UK · Canada
 
 <div align="center">
 
-**BUILD WITH PURPOSE · DESIGN WITH CLARITY · AUTOMATE PRACTICALLY**
+🔵━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🟡
+
+**BUILD WITH PURPOSE　·　DESIGN WITH CLARITY　·　AUTOMATE PRACTICALLY**
+
+⚪　🔵　🟡
 
 </div>
