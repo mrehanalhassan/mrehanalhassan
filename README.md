@@ -22,27 +22,27 @@
   <img src="divider-light.svg" width="100%" alt="">
 </picture>
 
-## <img src="bullet.svg" width="17" height="17" alt=""> AI automation & data
+## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> AI automation & data
 
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="25%">
-<img src="icon-spark.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-spark-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-spark-light.svg"><img src="icon-spark-light.svg" width="56" alt=""></picture><br>
 <b>AI Workflows</b><br>
 <sub>Repetitive workflows turned into one-click systems</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<img src="icon-chart.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-chart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-chart-light.svg"><img src="icon-chart-light.svg" width="56" alt=""></picture><br>
 <b>Data Pipelines</b><br>
 <sub>Data collection and cleanup pipelines</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<img src="icon-notes.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-notes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-notes-light.svg"><img src="icon-notes-light.svg" width="56" alt=""></picture><br>
 <b>AI Drafting</b><br>
 <sub>AI-assisted drafting and review loops</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<img src="icon-puzzle.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-puzzle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-puzzle-light.svg"><img src="icon-puzzle-light.svg" width="56" alt=""></picture><br>
 <b>Automation Systems</b><br>
 <sub>Systems for startups &amp; agencies</sub>
 </td>
@@ -62,7 +62,7 @@
   <img src="divider-2-light.svg" width="100%" alt="">
 </picture>
 
-## <img src="bullet.svg" width="17" height="17" alt=""> By the numbers
+## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> By the numbers
 
 <table width="100%">
 <tr>
@@ -92,20 +92,20 @@
   <img src="divider-3-light.svg" width="100%" alt="">
 </picture>
 
-## <img src="bullet.svg" width="17" height="17" alt=""> Featured builds
+## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> Featured builds
 
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://t-umbrella.com/"><img src="assets/projects/t-umbrella.svg" width="100%" alt="T-Umbrella"></a><br>
+<a href="https://t-umbrella.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/t-umbrella-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projects/t-umbrella-light.svg"><img src="assets/projects/t-umbrella-light.svg" width="100%" alt="T-Umbrella"></picture></a><br>
 <b>T-Umbrella</b> · <a href="https://t-umbrella.com/">Visit ↗</a>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://darearqamschoolkhanpur.com/"><img src="assets/projects/dar-e-arqam-school.svg" width="100%" alt="Dar e Arqam School Khanpur"></a><br>
+<a href="https://darearqamschoolkhanpur.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/dar-e-arqam-school-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projects/dar-e-arqam-school-light.svg"><img src="assets/projects/dar-e-arqam-school-light.svg" width="100%" alt="Dar e Arqam School Khanpur"></picture></a><br>
 <b>Dar e Arqam School Khanpur</b> · <a href="https://darearqamschoolkhanpur.com/">Visit ↗</a>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://thealliedschoolmulhal.com/"><img src="assets/projects/allied-school-mulhal.svg" width="100%" alt="The Allied School Mulhal"></a><br>
+<a href="https://thealliedschoolmulhal.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/allied-school-mulhal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projects/allied-school-mulhal-light.svg"><img src="assets/projects/allied-school-mulhal-light.svg" width="100%" alt="The Allied School Mulhal"></picture></a><br>
 <b>The Allied School Mulhal</b> · <a href="https://thealliedschoolmulhal.com/">Visit ↗</a>
 </td>
 </tr>
@@ -119,39 +119,39 @@
   <img src="divider-light.svg" width="100%" alt="">
 </picture>
 
-## <img src="bullet.svg" width="17" height="17" alt=""> The extension shelf
+## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> The extension shelf
 
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
-<img src="icon-chart.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-chart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-chart-light.svg"><img src="icon-chart-light.svg" width="56" alt=""></picture><br>
 <b>Rank Tracker</b><br>
 <sub>Fiverr keyword and rank research</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="icon-search.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-search-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-search-light.svg"><img src="icon-search-light.svg" width="56" alt=""></picture><br>
 <b>Site Audit</b><br>
 <sub>SEO, design and performance checks</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="icon-devices.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-devices-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-devices-light.svg"><img src="icon-devices-light.svg" width="56" alt=""></picture><br>
 <b>Responsive Preview</b><br>
 <sub>every breakpoint at once</sub>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%">
-<img src="icon-image.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-image-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-image-light.svg"><img src="icon-image-light.svg" width="56" alt=""></picture><br>
 <b>Image Downloader</b><br>
 <sub>bulk image grabber</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="icon-pin.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-pin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-pin-light.svg"><img src="icon-pin-light.svg" width="56" alt=""></picture><br>
 <b>Maps Scraper</b><br>
 <sub>Google Maps turned into lead lists</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="icon-notes.svg" width="56" alt=""><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="icon-notes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-notes-light.svg"><img src="icon-notes-light.svg" width="56" alt=""></picture><br>
 <b>Tasker Notes</b><br>
 <sub>notes, reminders and tasks</sub>
 </td>
@@ -165,7 +165,7 @@
   <img src="divider-2-light.svg" width="100%" alt="">
 </picture>
 
-## <img src="bullet.svg" width="17" height="17" alt=""> Contact
+## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> Contact
 
 - **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
 - **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
