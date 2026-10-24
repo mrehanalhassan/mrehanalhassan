@@ -1,3 +1,5 @@
+<img src="header.svg" width="100%" alt=""/>
+
 <div align="center">
 <h3>I build AI-powered tools, Chrome extensions and WordPress websites.</h3>
 <p>Based in Pakistan · Working with clients worldwide</p>
@@ -8,18 +10,18 @@
 
 ---
 
-## 🛠️ What I do
+## What I do
 
 <table>
 <tr>
-<td><b>🧩 Chrome Extensions</b><br/>shipped tools for everyday use</td>
-<td><b>🌐 WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
-<td><b>🤖 AI Automation</b><br/>workflows · data tools, less busywork</td>
+<td><b>Chrome Extensions</b><br/>shipped tools for everyday use</td>
+<td><b>WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
+<td><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
 </tr>
 </table>
 
 <details>
-<summary><b>🧩 Chrome Extensions</b> — what I ship</summary>
+<summary><b>Chrome Extensions</b> — what I ship</summary>
 
 - Marketplace research and rank-tracking tools
 - Website audit and SEO insight tools
@@ -29,7 +31,7 @@
 </details>
 
 <details>
-<summary><b>🌐 WordPress Websites</b> — what I build</summary>
+<summary><b>WordPress Websites</b> — what I build</summary>
 
 - Business websites that load fast and convert
 - Clean Elementor Pro and Kadence builds
@@ -38,7 +40,7 @@
 </details>
 
 <details>
-<summary><b>🤖 AI Automation</b> — what I automate</summary>
+<summary><b>AI Automation</b> — what I automate</summary>
 
 - Repetitive workflows turned into one-click systems
 - Data collection and cleanup pipelines
@@ -46,37 +48,41 @@
 
 </details>
 
----
+<img src="divider.svg" width="100%" alt=""/>
 
-## 🧰 The extension shelf
+## The extension shelf
 
 <table>
 <tr>
-<td><b>📊 Rank Tracker</b><br/>Fiverr keyword and rank research</td>
-<td><b>🔍 Site Audit</b><br/>SEO, design and performance checks</td>
-<td><b>📱 Responsive Preview</b><br/>every breakpoint at once</td>
+<td><b>Rank Tracker</b><br/>Fiverr keyword and rank research</td>
+<td><b>Site Audit</b><br/>SEO, design and performance checks</td>
+<td><b>Responsive Preview</b><br/>every breakpoint at once</td>
 </tr>
 <tr>
-<td><b>🖼️ Image Downloader</b><br/>bulk image grabber</td>
-<td><b>🗺️ Maps Scraper</b><br/>Google Maps turned into lead lists</td>
-<td><b>📝 Tasker Notes</b><br/>notes, reminders and tasks</td>
+<td><b>Image Downloader</b><br/>bulk image grabber</td>
+<td><b>Maps Scraper</b><br/>Google Maps turned into lead lists</td>
+<td><b>Tasker Notes</b><br/>notes, reminders and tasks</td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Selected work
+## Selected work
 
 - **[T-Umbrella →](https://t-umbrella.com/)** — contractor website, design and build
 - **[Dar e Arqam School Khanpur →](https://darearqamschoolkhanpur.com/)** — school website
 - **[The Allied School Mulhal →](https://thealliedschoolmulhal.com/)** — school website
 
+<img src="divider.svg" width="100%" alt=""/>
+
+## Contact
+
+- **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
+- **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
+- **Blog:** [mrehanalhassan.blogspot.com](https://mrehanalhassan.blogspot.com/)
+- **Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
+- **Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
+
 ---
 
-## 📫 Contact
-
-- **📘 Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
-- **💼 LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
-- **📝 Blog:** [mrehanalhassan.blogspot.com](https://mrehanalhassan.blogspot.com/)
-- **✉️ Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
-- **📱 Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
+<img src="footer.svg" width="100%" alt=""/>

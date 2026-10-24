@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="48" viewBox="0 0 1280 48" role="img" aria-label="Decorative animated divider">
+<title>Decorative animated divider</title>
+<line x1="120" y1="24" x2="1160" y2="24" stroke="#D4AF37" stroke-width="2" opacity="0.55"/>
+<circle cx="120" cy="24" r="3.5" fill="#2563EB"/>
+<circle cx="1160" cy="24" r="3.5" fill="#2563EB"/>
+<circle r="5" fill="#D4AF37">
+<animateMotion dur="5s" repeatCount="indefinite" path="M120,24 H1160"/>
+</circle>
+</svg>

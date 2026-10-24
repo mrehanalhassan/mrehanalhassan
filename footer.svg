@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="180" viewBox="0 0 1280 180" role="img" aria-label="Decorative animated footer">
+<title>Decorative animated footer</title>
+<rect width="1280" height="180" fill="#05070D"/>
+<g opacity="0.30">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1280 0" dur="12s" repeatCount="indefinite"/>
+<path d="M0,50 Q80,32 160,50 T320,50 T480,50 T640,50 T800,50 T960,50 T1120,50 T1280,50 T1440,50 T1600,50 T1760,50 T1920,50 T2080,50 T2240,50 T2400,50 T2560,50 L2560,180 L0,180 Z" fill="#2563EB"/>
+</g>
+<g opacity="0.45">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1280 0" dur="8s" repeatCount="indefinite"/>
+<path d="M0,72 Q80,59 160,72 T320,72 T480,72 T640,72 T800,72 T960,72 T1120,72 T1280,72 T1440,72 T1600,72 T1760,72 T1920,72 T2080,72 T2240,72 T2400,72 T2560,72 L2560,180 L0,180 Z" fill="#D4AF37"/>
+</g>
+<circle cx="300" cy="120" r="9" fill="none" stroke="#2563EB" stroke-width="2" opacity="0.65">
+<animate attributeName="cy" values="120;102;120" dur="6s" repeatCount="indefinite"/>
+</circle>
+<rect x="618" y="108" width="20" height="20" fill="none" stroke="#D4AF37" stroke-width="2" opacity="0.65">
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" dur="7s" repeatCount="indefinite"/>
+</rect>
+<path d="M960,128 L974,104 L988,128 Z" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.55">
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" dur="8s" repeatCount="indefinite"/>
+</path>
+<circle cx="180" cy="160" r="3.5" fill="#2563EB" opacity="0">
+<animate attributeName="opacity" values="0;0.7;0" dur="7s" begin="1s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0; 0 -90" dur="7s" begin="1s" repeatCount="indefinite"/>
+</circle>
+<circle cx="520" cy="165" r="4" fill="#D4AF37" opacity="0">
+<animate attributeName="opacity" values="0;0.6;0" dur="8.5s" begin="2.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0; -20 -100" dur="8.5s" begin="2.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="840" cy="160" r="3" fill="#FFFFFF" opacity="0">
+<animate attributeName="opacity" values="0;0.5;0" dur="6.5s" begin="0.5s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0; 20 -95" dur="6.5s" begin="0.5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1120" cy="165" r="4.5" fill="#2563EB" opacity="0">
+<animate attributeName="opacity" values="0;0.65;0" dur="9s" begin="4s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0; -15 -105" dur="9s" begin="4s" repeatCount="indefinite"/>
+</circle>
+</svg>
