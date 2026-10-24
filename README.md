@@ -1,52 +1,100 @@
-<img src="header.svg" width="100%" alt=""/>
-
-<div align="center">
-<h3>I build AI-powered tools, Chrome extensions and WordPress websites.</h3>
+<table width="100%">
+<tr>
+<td align="center" valign="middle" width="38%">
+<img src="globe-worldwide.svg" width="300" alt="Clients worldwide">
+</td>
+<td valign="middle" width="62%">
+<h1>M Rehan Al Hassan</h1>
+<p><b>I build AI-powered tools, Chrome extensions and WordPress websites.</b></p>
 <p>Based in Pakistan · Working with clients worldwide</p>
-<p><a href="#what-i-do">What I do</a> · <a href="#the-extension-shelf">Extension shelf</a> · <a href="#selected-work">Selected work</a> · <a href="#contact">Contact</a></p>
-</div>
+<p><b>Chrome Extensions</b> · <b>WordPress Websites</b> · <b>AI Automation</b></p>
+</td>
+</tr>
+</table>
 
-> Currently taking on select projects — Chrome extensions and WordPress builds.
+<img src="divider.svg" width="100%" alt=""/>
 
----
+## <img src="bullet.svg" width="20" height="20" alt=""> AI automation & data
 
-## <img src="bullet.svg" width="20" height="20" alt=""> What I do
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+<img src="icon-spark.svg" width="56" alt=""><br>
+<b>AI Workflows</b><br>
+<sub>Repetitive workflows turned into one-click systems</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<img src="icon-chart.svg" width="56" alt=""><br>
+<b>Data Pipelines</b><br>
+<sub>Data collection and cleanup pipelines</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<img src="icon-notes.svg" width="56" alt=""><br>
+<b>AI Drafting</b><br>
+<sub>AI-assisted drafting and review loops</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<img src="icon-puzzle.svg" width="56" alt=""><br>
+<b>Automation Systems</b><br>
+<sub>Systems for startups &amp; agencies</sub>
+</td>
+</tr>
+<tr><td colspan="4"><img src="spacer.svg" width="100%" alt=""></td></tr>
+</table>
+
+<img src="ai-graph.svg" width="100%" alt="Output chart"/>
+
+<img src="divider-2.svg" width="100%" alt=""/>
+
+## <img src="bullet.svg" width="20" height="20" alt=""> By the numbers
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<h2>20+</h2>
+<sub>Projects delivered</sub>
+</td>
+<td align="center" width="25%">
+<h2>6</h2>
+<sub>Chrome extensions</sub>
+</td>
+<td align="center" width="25%">
+<h2>3</h2>
+<sub>Core services</sub>
+</td>
+<td align="center" width="25%">
+<h2>3</h2>
+<sub>Projects showcased</sub>
+</td>
+</tr>
+<tr><td colspan="4"><img src="spacer.svg" width="100%" alt=""></td></tr>
+</table>
+
+<img src="divider-3.svg" width="100%" alt=""/>
+
+## <img src="bullet.svg" width="20" height="20" alt=""> Featured builds
 
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
-<img src="icon-puzzle.svg" width="56" alt=""><br>
-<b>Chrome Extensions</b><br>
-<sub>shipped tools for everyday use</sub>
-<ul align="left">
-<li>Marketplace research and rank-tracking tools</li>
-<li>Website audit and SEO insight tools</li>
-<li>Lead generation scrapers</li>
-<li>Everyday productivity utilities</li>
-</ul>
+<a href="https://t-umbrella.com/"><img src="assets/projects/t-umbrella.svg" width="100%" alt="T-Umbrella"></a><br>
+<b><a href="https://t-umbrella.com/">T-Umbrella</a></b> · <a href="https://t-umbrella.com/">Visit ↗</a><br>
+<sub>contractor website, design and build</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="icon-wordpress.svg" width="56" alt=""><br>
-<b>WordPress Websites</b><br>
-<sub>Elementor Pro · Kadence, fast clean builds</sub>
-<ul align="left">
-<li>Business websites that load fast and convert</li>
-<li>Clean Elementor Pro and Kadence builds</li>
-<li>Redesigns and landing pages</li>
-</ul>
+<a href="https://darearqamschoolkhanpur.com/"><img src="assets/projects/dar-e-arqam-school.svg" width="100%" alt="Dar e Arqam School Khanpur"></a><br>
+<b><a href="https://darearqamschoolkhanpur.com/">Dar e Arqam School Khanpur</a></b> · <a href="https://darearqamschoolkhanpur.com/">Visit ↗</a><br>
+<sub>school website</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="icon-spark.svg" width="56" alt=""><br>
-<b>AI Automation</b><br>
-<sub>workflows · data tools, less busywork</sub>
-<ul align="left">
-<li>Repetitive workflows turned into one-click systems</li>
-<li>Data collection and cleanup pipelines</li>
-<li>AI-assisted drafting and review loops</li>
-</ul>
+<a href="https://thealliedschoolmulhal.com/"><img src="assets/projects/allied-school-mulhal.svg" width="100%" alt="The Allied School Mulhal"></a><br>
+<b><a href="https://thealliedschoolmulhal.com/">The Allied School Mulhal</a></b> · <a href="https://thealliedschoolmulhal.com/">Visit ↗</a><br>
+<sub>school website</sub>
 </td>
 </tr>
 </table>
+
+<p align="center"><sub>20+ projects delivered — 3 showcased here.</sub></p>
 
 <img src="divider.svg" width="100%" alt=""/>
 
@@ -91,30 +139,6 @@
 </table>
 
 <img src="divider-2.svg" width="100%" alt=""/>
-
-## <img src="bullet.svg" width="20" height="20" alt=""> Selected work
-
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="33%">
-<a href="https://t-umbrella.com/"><img src="assets/projects/t-umbrella.svg" width="100%" alt="T-Umbrella"></a><br>
-<b><a href="https://t-umbrella.com/">T-Umbrella →</a></b><br>
-<sub>contractor website, design and build</sub>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://darearqamschoolkhanpur.com/"><img src="assets/projects/dar-e-arqam-school.svg" width="100%" alt="Dar e Arqam School Khanpur"></a><br>
-<b><a href="https://darearqamschoolkhanpur.com/">Dar e Arqam School Khanpur →</a></b><br>
-<sub>school website</sub>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://thealliedschoolmulhal.com/"><img src="assets/projects/allied-school-mulhal.svg" width="100%" alt="The Allied School Mulhal"></a><br>
-<b><a href="https://thealliedschoolmulhal.com/">The Allied School Mulhal →</a></b><br>
-<sub>school website</sub>
-</td>
-</tr>
-</table>
-
-<img src="divider-3.svg" width="100%" alt=""/>
 
 ## <img src="bullet.svg" width="20" height="20" alt=""> Contact
 
