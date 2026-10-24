@@ -14,7 +14,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="24" height="24" alt=""> AI automation & data
+## <img src="bullet.svg" width="32" height="32" alt=""> AI automation & data
 
 <table width="100%">
 <tr>
@@ -46,29 +46,25 @@
 
 <img src="divider-2.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="24" height="24" alt=""> By the numbers
+## <img src="bullet.svg" width="32" height="32" alt=""> By the numbers
 
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="icon-chart.svg" width="44" alt=""><br>
-<h2>20+</h2>
-<sub>Projects delivered</sub>
+<h1>20+</h1>
+<p>Projects delivered</p>
 </td>
 <td align="center" width="25%">
-<img src="icon-puzzle.svg" width="44" alt=""><br>
-<h2>6</h2>
-<sub>Chrome extensions</sub>
+<h1>6</h1>
+<p>Chrome extensions</p>
 </td>
 <td align="center" width="25%">
-<img src="icon-spark.svg" width="44" alt=""><br>
-<h2>3</h2>
-<sub>Core services</sub>
+<h1>3</h1>
+<p>Core services</p>
 </td>
 <td align="center" width="25%">
-<img src="icon-image.svg" width="44" alt=""><br>
-<h2>3</h2>
-<sub>Projects showcased</sub>
+<h1>3</h1>
+<p>Projects showcased</p>
 </td>
 </tr>
 <tr><td colspan="4"><img src="spacer.svg" width="100%" alt=""></td></tr>
@@ -76,7 +72,7 @@
 
 <img src="divider-3.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="24" height="24" alt=""> Featured builds
+## <img src="bullet.svg" width="32" height="32" alt=""> Featured builds
 
 <table width="100%">
 <tr>
@@ -99,7 +95,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="24" height="24" alt=""> The extension shelf
+## <img src="bullet.svg" width="32" height="32" alt=""> The extension shelf
 
 <table width="100%">
 <tr>
@@ -141,7 +137,7 @@
 
 <img src="divider-2.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="24" height="24" alt=""> Contact
+## <img src="bullet.svg" width="32" height="32" alt=""> Contact
 
 - **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
 - **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
