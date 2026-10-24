@@ -41,9 +41,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="icon-puzzle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-puzzle-light.svg"><img src="icon-puzzle-light.svg" width="56" alt=""></picture><br>
 <b>Automation Systems</b><br>
 <sub>Systems for startups &amp; agencies</sub>
-</td>
+<img src="spacer.svg" width="1200" height="1" alt=""></td>
 </tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
@@ -79,9 +78,8 @@
 <td align="center" width="50%">
 <h1>3</h1>
 <p>Projects showcased</p>
-</td>
+<img src="spacer.svg" width="1200" height="1" alt=""></td>
 </tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
@@ -113,11 +111,9 @@
 <h1>20+</h1>
 <p>Projects delivered</p>
 <p><sub>3 showcased here</sub></p>
-</td></tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
+<img src="spacer.svg" width="1200" height="1" alt=""></td></tr>
 </table>
 
-<p align="center"><sub>20+ projects delivered — 3 showcased here.</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="divider-dark.svg">
@@ -162,9 +158,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="icon-notes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-notes-light.svg"><img src="icon-notes-light.svg" width="56" alt=""></picture><br>
 <b>Tasker Notes</b><br>
 <sub>notes, reminders and tasks</sub>
-</td>
+<img src="spacer.svg" width="1200" height="1" alt=""></td>
 </tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
