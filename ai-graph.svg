@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="170" viewBox="0 0 480 170">
 <title>Output chart</title>
-<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0E2A6B"/><stop offset="100%" stop-color="#04060C"/></linearGradient><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#1F6BFF"/><stop offset="100%" stop-color="#22D3FF"/></linearGradient><linearGradient id="goldbar" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#B8892B"/><stop offset="100%" stop-color="#FFD76A"/></linearGradient></defs>
-<rect x="2" y="2" width="476" height="166" rx="14" fill="url(#panel)" stroke="#3B82F6" stroke-opacity="0.4"/>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A1A3D"/><stop offset="100%" stop-color="#03050A"/></linearGradient><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#1F6BFF"/><stop offset="100%" stop-color="#22D3FF"/></linearGradient><linearGradient id="goldbar" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#B8892B"/><stop offset="100%" stop-color="#FFD76A"/></linearGradient></defs>
+<rect x="2" y="2" width="476" height="166" fill="url(#panel)" stroke="#2A5CFF" stroke-opacity="0.8"/>
 <text x="18" y="24" font-family="monospace" font-size="10" letter-spacing="2" fill="#9DB3D6">OUTPUT</text>
 <rect x="30" y="85" width="20" height="55" rx="3" fill="url(#bar)"><animate attributeName="height" values="55;69;55" dur="3.2s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="y" values="85;71;85" dur="3.2s" begin="0.00s" repeatCount="indefinite"/></rect>
 <rect x="68" y="70" width="20" height="70" rx="3" fill="url(#bar)"><animate attributeName="height" values="70;84;70" dur="3.2s" begin="0.18s" repeatCount="indefinite"/><animate attributeName="y" values="70;56;70" dur="3.2s" begin="0.18s" repeatCount="indefinite"/></rect>
@@ -15,6 +15,5 @@
 <rect x="372" y="74" width="20" height="66" rx="3" fill="url(#bar)"><animate attributeName="height" values="66;80;66" dur="3.2s" begin="1.62s" repeatCount="indefinite"/><animate attributeName="y" values="74;60;74" dur="3.2s" begin="1.62s" repeatCount="indefinite"/></rect>
 <rect x="410" y="40" width="20" height="100" rx="3" fill="url(#bar)"><animate attributeName="height" values="100;114;100" dur="3.2s" begin="1.80s" repeatCount="indefinite"/><animate attributeName="y" values="40;26;40" dur="3.2s" begin="1.80s" repeatCount="indefinite"/></rect>
 <rect x="448" y="20" width="20" height="120" rx="3" fill="url(#goldbar)"><animate attributeName="height" values="120;134;120" dur="3.2s" begin="1.98s" repeatCount="indefinite"/><animate attributeName="y" values="20;6;20" dur="3.2s" begin="1.98s" repeatCount="indefinite"/></rect>
-<polyline points="40,77 78,62 116,84 154,50 192,68 230,40 268,74 306,56 344,44 382,66 420,32 458,12" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linejoin="round" opacity="0.9"/>
 <line x1="16" y1="140" x2="464" y2="140" stroke="#78AAFF" stroke-opacity="0.35" stroke-width="1"/>
 </svg>

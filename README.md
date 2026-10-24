@@ -1,9 +1,9 @@
 <table width="100%">
 <tr>
-<td align="center" valign="middle" width="38%">
-<img src="globe-worldwide.svg" width="300" alt="Clients worldwide">
+<td align="center" valign="middle" width="42%">
+<img src="globe-worldwide.svg" width="360" alt="Clients worldwide">
 </td>
-<td valign="middle" width="62%">
+<td align="center" valign="middle" width="58%">
 <h1>M Rehan Al Hassan</h1>
 <p><b>I build AI-powered tools, Chrome extensions and WordPress websites.</b></p>
 <p>Based in Pakistan · Working with clients worldwide</p>
@@ -14,7 +14,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="20" height="20" alt=""> AI automation & data
+## <img src="bullet.svg" width="24" height="24" alt=""> AI automation & data
 
 <table width="100%">
 <tr>
@@ -46,23 +46,27 @@
 
 <img src="divider-2.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="20" height="20" alt=""> By the numbers
+## <img src="bullet.svg" width="24" height="24" alt=""> By the numbers
 
 <table width="100%">
 <tr>
 <td align="center" width="25%">
+<img src="icon-chart.svg" width="44" alt=""><br>
 <h2>20+</h2>
 <sub>Projects delivered</sub>
 </td>
 <td align="center" width="25%">
+<img src="icon-puzzle.svg" width="44" alt=""><br>
 <h2>6</h2>
 <sub>Chrome extensions</sub>
 </td>
 <td align="center" width="25%">
+<img src="icon-spark.svg" width="44" alt=""><br>
 <h2>3</h2>
 <sub>Core services</sub>
 </td>
 <td align="center" width="25%">
+<img src="icon-image.svg" width="44" alt=""><br>
 <h2>3</h2>
 <sub>Projects showcased</sub>
 </td>
@@ -72,24 +76,21 @@
 
 <img src="divider-3.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="20" height="20" alt=""> Featured builds
+## <img src="bullet.svg" width="24" height="24" alt=""> Featured builds
 
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://t-umbrella.com/"><img src="assets/projects/t-umbrella.svg" width="100%" alt="T-Umbrella"></a><br>
-<b><a href="https://t-umbrella.com/">T-Umbrella</a></b> · <a href="https://t-umbrella.com/">Visit ↗</a><br>
-<sub>contractor website, design and build</sub>
+<b>T-Umbrella</b> · <a href="https://t-umbrella.com/">Visit ↗</a>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://darearqamschoolkhanpur.com/"><img src="assets/projects/dar-e-arqam-school.svg" width="100%" alt="Dar e Arqam School Khanpur"></a><br>
-<b><a href="https://darearqamschoolkhanpur.com/">Dar e Arqam School Khanpur</a></b> · <a href="https://darearqamschoolkhanpur.com/">Visit ↗</a><br>
-<sub>school website</sub>
+<b>Dar e Arqam School Khanpur</b> · <a href="https://darearqamschoolkhanpur.com/">Visit ↗</a>
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://thealliedschoolmulhal.com/"><img src="assets/projects/allied-school-mulhal.svg" width="100%" alt="The Allied School Mulhal"></a><br>
-<b><a href="https://thealliedschoolmulhal.com/">The Allied School Mulhal</a></b> · <a href="https://thealliedschoolmulhal.com/">Visit ↗</a><br>
-<sub>school website</sub>
+<b>The Allied School Mulhal</b> · <a href="https://thealliedschoolmulhal.com/">Visit ↗</a>
 </td>
 </tr>
 </table>
@@ -98,7 +99,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="20" height="20" alt=""> The extension shelf
+## <img src="bullet.svg" width="24" height="24" alt=""> The extension shelf
 
 <table width="100%">
 <tr>
@@ -140,7 +141,7 @@
 
 <img src="divider-2.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="20" height="20" alt=""> Contact
+## <img src="bullet.svg" width="24" height="24" alt=""> Contact
 
 - **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
 - **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
