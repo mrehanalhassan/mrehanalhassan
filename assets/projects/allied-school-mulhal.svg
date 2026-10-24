@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" role="img" aria-label="Project preview">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050913"/><stop offset="1" stop-color="#0B1A4A"/></linearGradient>
-<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFF1B8"/><stop offset="1" stop-color="#D4AF37"/></linearGradient>
-<radialGradient id="hl" cx="0.8" cy="0.25" r="0.5"><stop offset="0" stop-color="#1E5BFF" stop-opacity="0.55"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient>
-<clipPath id="c"><rect x="0" y="0" width="800" height="500" rx="18"/></clipPath>
-<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<g clip-path="url(#c)">
-<rect width="800" height="500" fill="url(#bg)"/><rect width="800" height="500" fill="url(#hl)"/>
-<rect width="800" height="44" fill="#0A0F1C"/><circle cx="24" cy="22" r="5" fill="#F5D77A"/><circle cx="42" cy="22" r="5" fill="#3B82F6"/><circle cx="60" cy="22" r="5" fill="#fff" fill-opacity="0.6"/><rect x="100" y="12" width="420" height="20" rx="10" fill="#1E5BFF" fill-opacity="0.18"/>
-<rect x="40" y="66" width="46" height="46" rx="12" fill="#1E5BFF" fill-opacity="0.25" stroke="#F5D77A"/>
-<rect x="520" y="76" width="50" height="8" rx="4" fill="#fff" fill-opacity="0.3"/><rect x="590" y="76" width="50" height="8" rx="4" fill="#fff" fill-opacity="0.3"/><rect x="660" y="76" width="50" height="8" rx="4" fill="#fff" fill-opacity="0.3"/>
-<rect x="40" y="150" width="280" height="22" rx="11" fill="url(#gold)"/><rect x="40" y="188" width="320" height="10" rx="5" fill="#fff" fill-opacity="0.35"/><rect x="40" y="208" width="250" height="10" rx="5" fill="#fff" fill-opacity="0.2"/><rect x="40" y="244" width="150" height="34" rx="17" fill="#1E5BFF"/><rect x="202" y="244" width="110" height="34" rx="17" fill="none" stroke="#F5D77A"/><rect x="40" y="330" width="330" height="120" rx="14" fill="#0E1B45" stroke="#60A5FA" stroke-opacity="0.6"/><path d="M58 430 L110 390 L160 410 L220 366 L280 392 L352 352" fill="none" stroke="#F5D77A" stroke-width="3" stroke-linejoin="round"/><rect x="390" y="330" width="170" height="120" rx="14" fill="#0E1B45" stroke="#60A5FA" stroke-opacity="0.6"/><rect x="580" y="330" width="180" height="120" rx="14" fill="#0E1B45" stroke="#60A5FA" stroke-opacity="0.6"/>
-<g transform="translate(600 150)" filter="url(#g)" opacity="0.95"><path d="M0 120 V60 L80 14 L160 60 V120 Z" fill="#1E5BFF" fill-opacity="0.5" stroke="#F5D77A" stroke-width="3" stroke-linejoin="round"/><rect x="62" y="80" width="36" height="40" fill="#F5D77A" fill-opacity="0.35" stroke="#F5D77A" stroke-width="2"/><circle cx="80" cy="52" r="10" fill="none" stroke="#fff" stroke-opacity="0.8" stroke-width="2.5"/><path d="M80 14 V-14 L110 -4 L80 6" fill="#F5D77A" stroke="#F5D77A" stroke-linejoin="round"/></g>
-</g>
-<rect x="1" y="1" width="798" height="498" rx="17.5" fill="none" stroke="#F5D77A" stroke-opacity="0.55"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="192" viewBox="0 0 320 192">
+<title>thealliedschoolmulhal.com</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="hsl(45,85%,20%)"/><stop offset="100%" stop-color="#060D20"/></linearGradient><linearGradient id="hero" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="hsla(45,95%,60%,0.9)"/><stop offset="100%" stop-color="hsla(75,95%,65%,0.25)"/></linearGradient></defs>
+<rect x="1" y="1" width="318" height="190" rx="12" fill="url(#bg)" stroke="#3D9BFF" stroke-opacity="0.45"/>
+<rect x="1" y="1" width="318" height="28" rx="12" fill="rgba(0,0,0,0.25)"/>
+<rect x="1" y="15" width="318" height="14" fill="rgba(0,0,0,0.25)"/>
+<circle cx="16" cy="15" r="3" fill="#9DB3D6" opacity="0.7"/>
+<circle cx="28" cy="15" r="3" fill="#9DB3D6" opacity="0.7"/>
+<circle cx="40" cy="15" r="3" fill="#9DB3D6" opacity="0.7"/>
+<text x="52" y="19" font-family="monospace" font-size="10" fill="#9DB3D6">thealliedschoolmulhal.com</text>
+<rect x="16" y="42" width="288" height="64" rx="8" fill="url(#hero)"/>
+<circle cx="160" cy="74" r="26" fill="#04060C" opacity="0.55" stroke="#F2C14E" stroke-opacity="0.6"/>
+<path d="M 140 88 L 140 62 L 160 48 L 180 62 L 180 88" fill="rgba(242,193,78,0.18)" stroke="#F2C14E" stroke-width="3" stroke-linejoin="round"/><path d="M 150 88 L 150 74 L 170 74 L 170 88" fill="none" stroke="#F2C14E" stroke-width="2.5"/><path d="M 160 48 L 160 36" stroke="#F2C14E" stroke-width="2.5" stroke-linecap="round"/><path d="M 160 36 L 172 40 L 160 44" fill="#F2C14E"/>
+<rect x="16" y="118" width="230" height="7" rx="3.5" fill="#FFFFFF" opacity="0.22"/>
+<rect x="16" y="131" width="160" height="7" rx="3.5" fill="#FFFFFF" opacity="0.15"/>
+<rect x="16" y="148" width="84" height="30" rx="5" fill="#FFFFFF" opacity="0.10"/>
+<rect x="116" y="148" width="84" height="30" rx="5" fill="#FFFFFF" opacity="0.10"/>
+<rect x="216" y="148" width="84" height="30" rx="5" fill="#FFFFFF" opacity="0.10"/>
 </svg>
