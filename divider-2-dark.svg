@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="100%" role="img" aria-label="Divider">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset="0.5" stop-color="#F5D77A"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E5BFF" stop-opacity="0"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="60" y="29.3" width="460" height="1.4" fill="url(#g)"/><rect x="680" y="29.3" width="460" height="1.4" fill="url(#g)"/>
+<rect x="150" y="35.5" width="350" height="1" fill="url(#b)" opacity="0.8"/><rect x="700" y="35.5" width="350" height="1" fill="url(#b)" opacity="0.8"/>
+<polygon points="600,12 615.6,21 615.6,39 600,48 584.4,39 584.4,21" fill="#0A0F1C" stroke="#F5D77A" stroke-width="1.6"/><polygon points="600,22 607,26 607,34 600,38 593,34 593,26" fill="#3B82F6"><animate attributeName="fill-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></polygon><g fill="#F5D77A"><rect x="556" y="27" width="6" height="6" transform="rotate(45 559 30)"/><rect x="638" y="27" width="6" height="6" transform="rotate(45 641 30)"/></g>
+<circle r="2.5" fill="#fff"><animateMotion dur="6s" repeatCount="indefinite" path="M60 30H550"/></circle>
+<circle r="2.5" fill="#fff"><animateMotion dur="6s" repeatCount="indefinite" path="M1140 30H650"/></circle>
+
+</svg>
