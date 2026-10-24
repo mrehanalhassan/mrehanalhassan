@@ -1,9 +1,11 @@
 ### I build AI-powered tools, Chrome extensions and WordPress websites.
-**MR ToolLab** · Based in Pakistan · Working with clients worldwide
+Based in Pakistan · Working with clients worldwide
 
 [What I do](#what-i-do) · [Extension shelf](#the-extension-shelf) · [Selected work](#selected-work) · [Contact](#contact)
 
-> Currently taking on select projects — Chrome extensions and WordPress builds.
+```diff
++ Currently taking on select projects — Chrome extensions and WordPress builds.
+```
 
 ---
 
@@ -66,14 +68,16 @@
 
 ## Selected work
 
-- **T-Minus Umbrella** — contractor website, design and build
-- **Dar e Arqam School, Khanpur** — school website
-- **The Allied School, Mulhal** — school website
-
-<sub>Live links shared on request.</sub>
+- **[T-Umbrella →](https://t-umbrella.com/)** — contractor website, design and build
+- **[Dar e Arqam School Khanpur →](https://darearqamschoolkhanpur.com/)** — school website
+- **[The Allied School Mulhal →](https://thealliedschoolmulhal.com/)** — school website
 
 ---
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mrrehanofficial/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
+- **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
+- **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
+- **Blog:** [mrehanalhassan.blogspot.com](https://mrehanalhassan.blogspot.com/)
+- **Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
+- **Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
