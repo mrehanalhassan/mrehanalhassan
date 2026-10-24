@@ -12,56 +12,56 @@
 
 ## <img src="bullet.svg" width="20" height="20" alt=""> What I do
 
-<table>
+<table width="100%">
 <tr>
-<td align="center"><img src="icon-puzzle.svg" width="48" height="48" alt=""><br/><b>Chrome Extensions</b><br/>shipped tools for everyday use</td>
-<td align="center"><img src="icon-wordpress.svg" width="48" height="48" alt=""><br/><b>WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
-<td align="center"><img src="icon-spark.svg" width="48" height="48" alt=""><br/><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
+<td width="33%" valign="top" align="center">
+<img src="icon-puzzle.svg" width="56" alt=""><br>
+<b>Chrome Extensions</b><br>
+<sub>shipped tools for everyday use</sub>
+<ul align="left">
+<li>Marketplace research and rank-tracking tools</li>
+<li>Website audit and SEO insight tools</li>
+<li>Lead generation scrapers</li>
+<li>Everyday productivity utilities</li>
+</ul>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="icon-wordpress.svg" width="56" alt=""><br>
+<b>WordPress Websites</b><br>
+<sub>Elementor Pro · Kadence, fast clean builds</sub>
+<ul align="left">
+<li>Business websites that load fast and convert</li>
+<li>Clean Elementor Pro and Kadence builds</li>
+<li>Redesigns and landing pages</li>
+</ul>
+</td>
+<td width="33%" valign="top" align="center">
+<img src="icon-spark.svg" width="56" alt=""><br>
+<b>AI Automation</b><br>
+<sub>workflows · data tools, less busywork</sub>
+<ul align="left">
+<li>Repetitive workflows turned into one-click systems</li>
+<li>Data collection and cleanup pipelines</li>
+<li>AI-assisted drafting and review loops</li>
+</ul>
+</td>
 </tr>
 </table>
-
-<details>
-<summary><b>Chrome Extensions</b> — what I ship</summary>
-
-- Marketplace research and rank-tracking tools
-- Website audit and SEO insight tools
-- Lead generation scrapers
-- Everyday productivity utilities
-
-</details>
-
-<details>
-<summary><b>WordPress Websites</b> — what I build</summary>
-
-- Business websites that load fast and convert
-- Clean Elementor Pro and Kadence builds
-- Redesigns and landing pages
-
-</details>
-
-<details>
-<summary><b>AI Automation</b> — what I automate</summary>
-
-- Repetitive workflows turned into one-click systems
-- Data collection and cleanup pipelines
-- AI-assisted drafting and review loops
-
-</details>
 
 <img src="divider.svg" width="100%" alt=""/>
 
 ## <img src="bullet.svg" width="20" height="20" alt=""> The extension shelf
 
-<table>
+<table width="100%">
 <tr>
-<td align="center"><img src="icon-chart.svg" width="48" height="48" alt=""><br/><b>Rank Tracker</b><br/>Fiverr keyword and rank research</td>
-<td align="center"><img src="icon-search.svg" width="48" height="48" alt=""><br/><b>Site Audit</b><br/>SEO, design and performance checks</td>
-<td align="center"><img src="icon-devices.svg" width="48" height="48" alt=""><br/><b>Responsive Preview</b><br/>every breakpoint at once</td>
+<td width="33%" valign="top" align="center"><img src="icon-chart.svg" width="56" alt=""><br><b>Rank Tracker</b><br><sub>Fiverr keyword and rank research</sub></td>
+<td width="33%" valign="top" align="center"><img src="icon-search.svg" width="56" alt=""><br><b>Site Audit</b><br><sub>SEO, design and performance checks</sub></td>
+<td width="33%" valign="top" align="center"><img src="icon-devices.svg" width="56" alt=""><br><b>Responsive Preview</b><br><sub>every breakpoint at once</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="icon-image.svg" width="48" height="48" alt=""><br/><b>Image Downloader</b><br/>bulk image grabber</td>
-<td align="center"><img src="icon-pin.svg" width="48" height="48" alt=""><br/><b>Maps Scraper</b><br/>Google Maps turned into lead lists</td>
-<td align="center"><img src="icon-notes.svg" width="48" height="48" alt=""><br/><b>Tasker Notes</b><br/>notes, reminders and tasks</td>
+<td width="33%" valign="top" align="center"><img src="icon-image.svg" width="56" alt=""><br><b>Image Downloader</b><br><sub>bulk image grabber</sub></td>
+<td width="33%" valign="top" align="center"><img src="icon-pin.svg" width="56" alt=""><br><b>Maps Scraper</b><br><sub>Google Maps turned into lead lists</sub></td>
+<td width="33%" valign="top" align="center"><img src="icon-notes.svg" width="56" alt=""><br><b>Tasker Notes</b><br><sub>notes, reminders and tasks</sub></td>
 </tr>
 </table>
 
@@ -69,9 +69,25 @@
 
 ## <img src="bullet.svg" width="20" height="20" alt=""> Selected work
 
-- **[T-Umbrella →](https://t-umbrella.com/)** — contractor website, design and build
-- **[Dar e Arqam School Khanpur →](https://darearqamschoolkhanpur.com/)** — school website
-- **[The Allied School Mulhal →](https://thealliedschoolmulhal.com/)** — school website
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://t-umbrella.com/"><img src="assets/projects/t-umbrella.svg" width="100%" alt="T-Umbrella"></a><br>
+<b><a href="https://t-umbrella.com/">T-Umbrella →</a></b><br>
+<sub>contractor website, design and build</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://darearqamschoolkhanpur.com/"><img src="assets/projects/dar-e-arqam-school.svg" width="100%" alt="Dar e Arqam School Khanpur"></a><br>
+<b><a href="https://darearqamschoolkhanpur.com/">Dar e Arqam School Khanpur →</a></b><br>
+<sub>school website</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://thealliedschoolmulhal.com/"><img src="assets/projects/allied-school-mulhal.svg" width="100%" alt="The Allied School Mulhal"></a><br>
+<b><a href="https://thealliedschoolmulhal.com/">The Allied School Mulhal →</a></b><br>
+<sub>school website</sub>
+</td>
+</tr>
+</table>
 
 <img src="divider-3.svg" width="100%" alt=""/>
 

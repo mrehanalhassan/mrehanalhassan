@@ -3,7 +3,7 @@
 <linearGradient id="d2g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset="0.5" stop-color="#F5D77A"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
 <linearGradient id="d2b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E5BFF" stop-opacity="0"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></linearGradient>
 <radialGradient id="d2o" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#3B82F6" stop-opacity="0.55"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
-<filter id="d2f" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
 </defs>
 <rect width="1200" height="60" fill="#05070D"/>
 <circle cx="600" cy="30" r="42" fill="url(#d2o)"><animate attributeName="r" values="36;46;36" dur="6s" repeatCount="indefinite"/></circle>
@@ -11,11 +11,11 @@
 <path d="M660 26 H1140" stroke="url(#d2g)" stroke-width="1.4"/>
 <path d="M120 34 H520" stroke="url(#d2b)" stroke-width="1" opacity="0.7"/>
 <path d="M680 34 H1080" stroke="url(#d2b)" stroke-width="1" opacity="0.7"/>
-<g filter="url(#d2f)">
+<g>
 <path d="M600 14 L614 22 L614 38 L600 46 L586 38 L586 22 Z" fill="#0A0F1C" stroke="#F5D77A" stroke-width="1.6"/>
 <circle cx="600" cy="30" r="4" fill="#3B82F6"><animate attributeName="fill-opacity" values="0.4;1;0.4" dur="3.2s" repeatCount="indefinite"/></circle>
 </g>
 <g fill="#F5D77A"><rect x="552" y="23" width="6" height="6" transform="rotate(45 555 26)"/><rect x="642" y="23" width="6" height="6" transform="rotate(45 645 26)"/></g>
-<circle r="3" fill="#FFFFFF" filter="url(#d2f)"><animateMotion dur="7s" repeatCount="indefinite" path="M600 26 H120"/></circle>
-<circle r="3" fill="#FFFFFF" filter="url(#d2f)"><animateMotion dur="7s" repeatCount="indefinite" path="M600 26 H1080"/></circle>
+<circle r="3" fill="#FFFFFF"><animateMotion dur="7s" repeatCount="indefinite" path="M600 26 H120"/></circle>
+<circle r="3" fill="#FFFFFF"><animateMotion dur="7s" repeatCount="indefinite" path="M600 26 H1080"/></circle>
 </svg>
