@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="100%" role="img" aria-label="AI automation icon">
+<rect x="1.5" y="1.5" width="45" height="45" rx="11" fill="none" stroke="#A16207" stroke-width="1"/>
 <g>
 <path d="M23 9 C24.2 17.5 25.5 20 34 24 C25.5 28 24.2 30.5 23 39 C21.8 30.5 20.5 28 12 24 C20.5 20 21.8 17.5 23 9 Z" fill="#A16207" stroke="#A16207" stroke-width="1"/>
 <path d="M35 11 v6 M32 14 h6" stroke="#1D4ED8" stroke-width="1.6" stroke-linecap="round"/>

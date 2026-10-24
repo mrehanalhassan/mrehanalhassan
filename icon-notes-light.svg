@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="100%" role="img" aria-label="Tasker notes icon">
+<rect x="1.5" y="1.5" width="45" height="45" rx="11" fill="none" stroke="#A16207" stroke-width="1"/>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
 <rect x="14" y="9" width="20" height="30" rx="2.5" stroke="#A16207" stroke-width="2" fill="#1E5BFF" fill-opacity="0.15"/>
 <polyline points="28,9 28,15 34,15" stroke="#A16207" stroke-width="1.4"/>
