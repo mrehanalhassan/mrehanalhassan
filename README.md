@@ -1,5 +1,3 @@
-<img src="banner.svg" width="100%" alt="M Rehan Al Hassan — Building MR ToolLab"/>
-
 ### I build AI-powered tools, Chrome extensions and WordPress websites.
 **MR ToolLab** · Based in Pakistan · Working with clients worldwide
 
@@ -7,18 +5,13 @@
 
 ## What I do
 
-```mermaid
-flowchart LR
-    A["Chrome Extensions<br/>shipped tools for<br/>everyday use"]
-    B["WordPress Websites<br/>Elementor Pro · Kadence<br/>fast, clean builds"]
-    C["AI Automation<br/>workflows · data tools<br/>less busywork"]
-    classDef gold fill:#0B1220,stroke:#D4AF37,stroke-width:2px,color:#FFFFFF
-    classDef blue fill:#0B1220,stroke:#2563EB,stroke-width:2px,color:#FFFFFF
-    classDef white fill:#0B1220,stroke:#FFFFFF,stroke-width:2px,color:#FFFFFF
-    class A gold
-    class B blue
-    class C white
-```
+<table>
+<tr>
+<td><b>Chrome Extensions</b><br/>shipped tools for everyday use</td>
+<td><b>WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
+<td><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
+</tr>
+</table>
 
 ---
 
