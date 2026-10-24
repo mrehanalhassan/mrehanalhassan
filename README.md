@@ -19,7 +19,6 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> AI automation & data
 
 <table width="100%">
-<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" valign="top" width="50%">
 <picture><source media="(prefers-color-scheme: dark)" srcset="icon-spark-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-spark-light.svg"><img src="icon-spark-light.svg" width="56" alt=""></picture><br>
@@ -44,6 +43,7 @@
 <sub>Systems for startups &amp; agencies</sub>
 </td>
 </tr>
+<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
@@ -61,7 +61,6 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> By the numbers
 
 <table width="100%">
-<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" width="50%">
 <h1>20+</h1>
@@ -82,6 +81,7 @@
 <p>Projects showcased</p>
 </td>
 </tr>
+<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
@@ -93,7 +93,6 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> Featured builds
 
 <table width="100%">
-<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" valign="top" width="50%">
 <a href="https://t-umbrella.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/t-umbrella-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projects/t-umbrella-light.svg"><img src="assets/projects/t-umbrella-light.svg" width="100%" alt="T-Umbrella"></picture></a><br>
@@ -115,6 +114,7 @@
 <p>Projects delivered</p>
 <p><sub>3 showcased here</sub></p>
 </td></tr>
+<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <p align="center"><sub>20+ projects delivered — 3 showcased here.</sub></p>
@@ -128,7 +128,6 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> The extension shelf
 
 <table width="100%">
-<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" valign="top" width="50%">
 <picture><source media="(prefers-color-scheme: dark)" srcset="icon-chart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-chart-light.svg"><img src="icon-chart-light.svg" width="56" alt=""></picture><br>
@@ -165,6 +164,7 @@
 <sub>notes, reminders and tasks</sub>
 </td>
 </tr>
+<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
