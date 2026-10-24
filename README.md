@@ -1,6 +1,10 @@
 ### I build AI-powered tools, Chrome extensions and WordPress websites.
 **MR ToolLab** · Based in Pakistan · Working with clients worldwide
 
+[What I do](#what-i-do) · [Extension shelf](#the-extension-shelf) · [Selected work](#selected-work) · [Contact](#contact)
+
+> Currently taking on select projects — Chrome extensions and WordPress builds.
+
 ---
 
 ## What I do
@@ -12,6 +16,34 @@
 <td><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
 </tr>
 </table>
+
+<details>
+<summary><b>Chrome Extensions</b> — what I ship</summary>
+
+- Marketplace research and rank-tracking tools
+- Website audit and SEO insight tools
+- Lead generation scrapers
+- Everyday productivity utilities
+
+</details>
+
+<details>
+<summary><b>WordPress Websites</b> — what I build</summary>
+
+- Business websites that load fast and convert
+- Clean Elementor Pro and Kadence builds
+- Redesigns and landing pages
+
+</details>
+
+<details>
+<summary><b>AI Automation</b> — what I automate</summary>
+
+- Repetitive workflows turned into one-click systems
+- Data collection and cleanup pipelines
+- AI-assisted drafting and review loops
+
+</details>
 
 ---
 
