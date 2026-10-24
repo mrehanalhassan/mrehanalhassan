@@ -62,21 +62,21 @@
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<h1>20+</h1>
+<h3>20+</h3>
 <p>Projects delivered</p>
 </td>
 <td align="center" width="50%">
-<h1>6</h1>
+<h3>6</h3>
 <p>Chrome extensions</p>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<h1>3</h1>
+<h3>3</h3>
 <p>Core services</p>
 </td>
 <td align="center" width="50%">
-<h1>3</h1>
+<h3>3</h3>
 <p>Projects showcased</p>
 <img src="spacer.svg" width="1200" height="1" alt=""></td>
 </tr>
@@ -108,7 +108,7 @@
 </td>
 
 <td align="center" valign="middle" width="50%">
-<h1>20+</h1>
+<h3>20+</h3>
 <p>Projects delivered</p>
 <p><sub>3 showcased here</sub></p>
 <img src="spacer.svg" width="1200" height="1" alt=""></td></tr>
