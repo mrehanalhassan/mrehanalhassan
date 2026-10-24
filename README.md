@@ -1,26 +1,25 @@
-### I build AI-powered tools, Chrome extensions and WordPress websites.
-Based in Pakistan · Working with clients worldwide
+<div align="center">
+<h3>I build AI-powered tools, Chrome extensions and WordPress websites.</h3>
+<p>Based in Pakistan · Working with clients worldwide</p>
+<p><a href="#what-i-do">What I do</a> · <a href="#the-extension-shelf">Extension shelf</a> · <a href="#selected-work">Selected work</a> · <a href="#contact">Contact</a></p>
+</div>
 
-[What I do](#what-i-do) · [Extension shelf](#the-extension-shelf) · [Selected work](#selected-work) · [Contact](#contact)
-
-```diff
-+ Currently taking on select projects — Chrome extensions and WordPress builds.
-```
+> Currently taking on select projects — Chrome extensions and WordPress builds.
 
 ---
 
-## What I do
+## 🛠️ What I do
 
 <table>
 <tr>
-<td><b>Chrome Extensions</b><br/>shipped tools for everyday use</td>
-<td><b>WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
-<td><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
+<td><b>🧩 Chrome Extensions</b><br/>shipped tools for everyday use</td>
+<td><b>🌐 WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
+<td><b>🤖 AI Automation</b><br/>workflows · data tools, less busywork</td>
 </tr>
 </table>
 
 <details>
-<summary><b>Chrome Extensions</b> — what I ship</summary>
+<summary><b>🧩 Chrome Extensions</b> — what I ship</summary>
 
 - Marketplace research and rank-tracking tools
 - Website audit and SEO insight tools
@@ -30,7 +29,7 @@ Based in Pakistan · Working with clients worldwide
 </details>
 
 <details>
-<summary><b>WordPress Websites</b> — what I build</summary>
+<summary><b>🌐 WordPress Websites</b> — what I build</summary>
 
 - Business websites that load fast and convert
 - Clean Elementor Pro and Kadence builds
@@ -39,7 +38,7 @@ Based in Pakistan · Working with clients worldwide
 </details>
 
 <details>
-<summary><b>AI Automation</b> — what I automate</summary>
+<summary><b>🤖 AI Automation</b> — what I automate</summary>
 
 - Repetitive workflows turned into one-click systems
 - Data collection and cleanup pipelines
@@ -49,24 +48,24 @@ Based in Pakistan · Working with clients worldwide
 
 ---
 
-## The extension shelf
+## 🧰 The extension shelf
 
 <table>
 <tr>
-<td><b>Rank Tracker</b><br/>Fiverr keyword and rank research</td>
-<td><b>Site Audit</b><br/>SEO, design and performance checks</td>
-<td><b>Responsive Preview</b><br/>every breakpoint at once</td>
+<td><b>📊 Rank Tracker</b><br/>Fiverr keyword and rank research</td>
+<td><b>🔍 Site Audit</b><br/>SEO, design and performance checks</td>
+<td><b>📱 Responsive Preview</b><br/>every breakpoint at once</td>
 </tr>
 <tr>
-<td><b>Image Downloader</b><br/>bulk image grabber</td>
-<td><b>Maps Scraper</b><br/>Google Maps turned into lead lists</td>
-<td><b>Tasker Notes</b><br/>notes, reminders and tasks</td>
+<td><b>🖼️ Image Downloader</b><br/>bulk image grabber</td>
+<td><b>🗺️ Maps Scraper</b><br/>Google Maps turned into lead lists</td>
+<td><b>📝 Tasker Notes</b><br/>notes, reminders and tasks</td>
 </tr>
 </table>
 
 ---
 
-## Selected work
+## 🏆 Selected work
 
 - **[T-Umbrella →](https://t-umbrella.com/)** — contractor website, design and build
 - **[Dar e Arqam School Khanpur →](https://darearqamschoolkhanpur.com/)** — school website
@@ -74,10 +73,10 @@ Based in Pakistan · Working with clients worldwide
 
 ---
 
-## Contact
+## 📫 Contact
 
-- **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
-- **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
-- **Blog:** [mrehanalhassan.blogspot.com](https://mrehanalhassan.blogspot.com/)
-- **Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
-- **Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
+- **📘 Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
+- **💼 LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
+- **📝 Blog:** [mrehanalhassan.blogspot.com](https://mrehanalhassan.blogspot.com/)
+- **✉️ Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
+- **📱 Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
