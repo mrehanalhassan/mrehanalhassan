@@ -1,22 +1,14 @@
-<table width="100%">
-<tr>
-<td align="center" valign="middle">
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="globe-3d.svg">
   <source media="(prefers-color-scheme: light)" srcset="globe-3d-light.svg">
   <img src="globe-3d-light.svg" width="360" height="344" alt="Rotating 3D globe">
 </picture>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
 <h1>M Rehan Al Hassan</h1>
 <p><b>I build AI-powered tools, Chrome extensions and WordPress websites.</b></p>
 <p>Based in Pakistan · Working with clients worldwide</p>
 <p><b>Chrome Extensions</b> · <b>WordPress Websites</b> · <b>AI Automation</b></p>
-</td>
-</tr>
-</table>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="divider-dark.svg">
@@ -27,6 +19,7 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> AI automation & data
 
 <table width="100%">
+<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" valign="top" width="50%">
 <picture><source media="(prefers-color-scheme: dark)" srcset="icon-spark-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-spark-light.svg"><img src="icon-spark-light.svg" width="56" alt=""></picture><br>
@@ -51,7 +44,6 @@
 <sub>Systems for startups &amp; agencies</sub>
 </td>
 </tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
@@ -69,6 +61,7 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> By the numbers
 
 <table width="100%">
+<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" width="50%">
 <h1>20+</h1>
@@ -89,7 +82,6 @@
 <p>Projects showcased</p>
 </td>
 </tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
@@ -101,6 +93,7 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> Featured builds
 
 <table width="100%">
+<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" valign="top" width="50%">
 <a href="https://t-umbrella.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/t-umbrella-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projects/t-umbrella-light.svg"><img src="assets/projects/t-umbrella-light.svg" width="100%" alt="T-Umbrella"></picture></a><br>
@@ -135,6 +128,7 @@
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="bullet-dark.svg"><source media="(prefers-color-scheme: light)" srcset="bullet-light.svg"><img src="bullet-light.svg" width="17" height="17" alt=""></picture> The extension shelf
 
 <table width="100%">
+<colgroup><col width="800"><col width="800"></colgroup>
 <tr>
 <td align="center" valign="top" width="50%">
 <picture><source media="(prefers-color-scheme: dark)" srcset="icon-chart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="icon-chart-light.svg"><img src="icon-chart-light.svg" width="56" alt=""></picture><br>
@@ -171,7 +165,6 @@
 <sub>notes, reminders and tasks</sub>
 </td>
 </tr>
-<tr><td colspan="2"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <picture>
