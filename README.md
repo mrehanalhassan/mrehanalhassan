@@ -1,7 +1,11 @@
 <table width="100%">
 <tr>
 <td align="center" valign="middle" width="42%">
-<img src="globe-earth.svg" width="360" height="344" alt="Clients worldwide">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="globe-3d.svg">
+  <source media="(prefers-color-scheme: light)" srcset="globe-3d-light.svg">
+  <img src="globe-3d-light.svg" width="360" height="344" alt="Rotating 3D globe">
+</picture>
 </td>
 <td align="center" valign="middle" width="58%">
 <h1>M Rehan Al Hassan</h1>
@@ -170,7 +174,7 @@
 - **Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="footer-light.svg">
-  <img src="footer-light.svg" width="100%" alt="Decorative footer">
+  <source media="(prefers-color-scheme: dark)" srcset="footer3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="footer3-light.svg">
+  <img src="footer3-light.svg" width="100%" alt="Decorative footer">
 </picture>
