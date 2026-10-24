@@ -63,6 +63,7 @@
 <td width="33%" valign="top" align="center"><img src="icon-pin.svg" width="56" alt=""><br><b>Maps Scraper</b><br><sub>Google Maps turned into lead lists</sub></td>
 <td width="33%" valign="top" align="center"><img src="icon-notes.svg" width="56" alt=""><br><b>Tasker Notes</b><br><sub>notes, reminders and tasks</sub></td>
 </tr>
+<tr><td colspan="3" align="center"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
 <img src="divider-2.svg" width="100%" alt=""/>

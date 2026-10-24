@@ -2,15 +2,12 @@
 <defs>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset="0.5" stop-color="#F5D77A"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
 <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1E5BFF" stop-opacity="0"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></linearGradient>
-<radialGradient id="o" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#1E5BFF" stop-opacity="0.45"/><stop offset="1" stop-color="#1E5BFF" stop-opacity="0"/></radialGradient>
-<filter id="f" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<circle cx="600" cy="30" r="34" fill="url(#o)"><animate attributeName="r" values="30;38;30" dur="5s" repeatCount="indefinite"/></circle>
-<path d="M60 30H520" stroke="url(#g)" stroke-width="1.5"/><path d="M680 30H1140" stroke="url(#g)" stroke-width="1.5"/>
-<path d="M150 36H500" stroke="url(#b)" stroke-width="1" opacity="0.8"/><path d="M700 36H1050" stroke="url(#b)" stroke-width="1" opacity="0.8"/>
-<path d="M600 12 L618 30 L600 48 L582 30Z" fill="#0A0F1C" stroke="#F5D77A" stroke-width="1.8"/>
-<path d="M600 21 L609 30 L600 39 L591 30Z" fill="#3B82F6"><animate attributeName="fill-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></path>
-<g fill="#F5D77A"><rect x="556" y="27" width="6" height="6" transform="rotate(45 559 30)"/><rect x="638" y="27" width="6" height="6" transform="rotate(45 641 30)"/></g>
-<circle r="3" fill="#F5D77A" filter="url(#f)"><animateMotion dur="6s" repeatCount="indefinite" path="M60 30H560"/></circle>
-<circle r="3" fill="#F5D77A" filter="url(#f)"><animateMotion dur="6s" repeatCount="indefinite" path="M1140 30H640"/></circle>
+<rect width="1200" height="60" fill="#05070D"/>
+<rect x="60" y="29.3" width="460" height="1.4" fill="url(#g)"/><rect x="680" y="29.3" width="460" height="1.4" fill="url(#g)"/>
+<rect x="150" y="35.5" width="350" height="1" fill="url(#b)" opacity="0.8"/><rect x="700" y="35.5" width="350" height="1" fill="url(#b)" opacity="0.8"/>
+<path d="M600 12 L618 30 L600 48 L582 30Z" fill="#0A0F1C" stroke="#F5D77A" stroke-width="1.6"/><path d="M600 21 L609 30 L600 39 L591 30Z" fill="#3B82F6"><animate attributeName="fill-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/></path><g fill="#F5D77A"><rect x="556" y="27" width="6" height="6" transform="rotate(45 559 30)"/><rect x="638" y="27" width="6" height="6" transform="rotate(45 641 30)"/></g>
+<circle r="2.5" fill="#fff"><animateMotion dur="6s" repeatCount="indefinite" path="M60 30H550"/></circle>
+<circle r="2.5" fill="#fff"><animateMotion dur="6s" repeatCount="indefinite" path="M1140 30H650"/></circle>
+
 </svg>
