@@ -10,13 +10,13 @@
 
 ---
 
-## What I do
+## <img src="bullet.svg" width="20" height="20" alt=""> What I do
 
 <table>
 <tr>
-<td><b>Chrome Extensions</b><br/>shipped tools for everyday use</td>
-<td><b>WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
-<td><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
+<td align="center"><img src="icon-puzzle.svg" width="48" height="48" alt=""><br/><b>Chrome Extensions</b><br/>shipped tools for everyday use</td>
+<td align="center"><img src="icon-wordpress.svg" width="48" height="48" alt=""><br/><b>WordPress Websites</b><br/>Elementor Pro · Kadence, fast clean builds</td>
+<td align="center"><img src="icon-spark.svg" width="48" height="48" alt=""><br/><b>AI Automation</b><br/>workflows · data tools, less busywork</td>
 </tr>
 </table>
 
@@ -50,39 +50,37 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## The extension shelf
+## <img src="bullet.svg" width="20" height="20" alt=""> The extension shelf
 
 <table>
 <tr>
-<td><b>Rank Tracker</b><br/>Fiverr keyword and rank research</td>
-<td><b>Site Audit</b><br/>SEO, design and performance checks</td>
-<td><b>Responsive Preview</b><br/>every breakpoint at once</td>
+<td align="center"><img src="icon-chart.svg" width="48" height="48" alt=""><br/><b>Rank Tracker</b><br/>Fiverr keyword and rank research</td>
+<td align="center"><img src="icon-search.svg" width="48" height="48" alt=""><br/><b>Site Audit</b><br/>SEO, design and performance checks</td>
+<td align="center"><img src="icon-devices.svg" width="48" height="48" alt=""><br/><b>Responsive Preview</b><br/>every breakpoint at once</td>
 </tr>
 <tr>
-<td><b>Image Downloader</b><br/>bulk image grabber</td>
-<td><b>Maps Scraper</b><br/>Google Maps turned into lead lists</td>
-<td><b>Tasker Notes</b><br/>notes, reminders and tasks</td>
+<td align="center"><img src="icon-image.svg" width="48" height="48" alt=""><br/><b>Image Downloader</b><br/>bulk image grabber</td>
+<td align="center"><img src="icon-pin.svg" width="48" height="48" alt=""><br/><b>Maps Scraper</b><br/>Google Maps turned into lead lists</td>
+<td align="center"><img src="icon-notes.svg" width="48" height="48" alt=""><br/><b>Tasker Notes</b><br/>notes, reminders and tasks</td>
 </tr>
 </table>
 
----
+<img src="divider-2.svg" width="100%" alt=""/>
 
-## Selected work
+## <img src="bullet.svg" width="20" height="20" alt=""> Selected work
 
 - **[T-Umbrella →](https://t-umbrella.com/)** — contractor website, design and build
 - **[Dar e Arqam School Khanpur →](https://darearqamschoolkhanpur.com/)** — school website
 - **[The Allied School Mulhal →](https://thealliedschoolmulhal.com/)** — school website
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="divider-3.svg" width="100%" alt=""/>
 
-## Contact
+## <img src="bullet.svg" width="20" height="20" alt=""> Contact
 
 - **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
 - **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
 - **Blog:** [mrehanalhassan.blogspot.com](https://mrehanalhassan.blogspot.com/)
 - **Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
 - **Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
-
----
 
 <img src="footer.svg" width="100%" alt=""/>
