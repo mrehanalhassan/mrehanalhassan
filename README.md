@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="center" valign="middle" width="42%">
-<img src="globe-worldwide.svg" width="360" alt="Clients worldwide">
+<img src="globe-earth.svg" width="360" alt="Clients worldwide">
 </td>
 <td align="center" valign="middle" width="58%">
 <h1>M Rehan Al Hassan</h1>
