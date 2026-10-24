@@ -12,9 +12,13 @@
 </tr>
 </table>
 
-<img src="divider.svg" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="divider-light.svg">
+  <img src="divider-light.svg" width="100%" alt="">
+</picture>
 
-## <img src="bullet.svg" width="18" height="18" alt=""> AI automation & data
+## <img src="bullet.svg" width="17" height="17" alt=""> AI automation & data
 
 <table width="100%">
 <tr>
@@ -42,11 +46,19 @@
 <tr><td colspan="4"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
-<img src="ai-graph.svg" width="100%" alt="Output chart"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ai-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="ai-graph-light.svg">
+  <img src="ai-graph-light.svg" width="100%" alt="Output chart">
+</picture>
 
-<img src="divider-2.svg" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="divider-2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="divider-2-light.svg">
+  <img src="divider-2-light.svg" width="100%" alt="">
+</picture>
 
-## <img src="bullet.svg" width="18" height="18" alt=""> By the numbers
+## <img src="bullet.svg" width="17" height="17" alt=""> By the numbers
 
 <table width="100%">
 <tr>
@@ -70,9 +82,13 @@
 <tr><td colspan="4"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
-<img src="divider-3.svg" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="divider-3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="divider-3-light.svg">
+  <img src="divider-3-light.svg" width="100%" alt="">
+</picture>
 
-## <img src="bullet.svg" width="18" height="18" alt=""> Featured builds
+## <img src="bullet.svg" width="17" height="17" alt=""> Featured builds
 
 <table width="100%">
 <tr>
@@ -93,9 +109,13 @@
 
 <p align="center"><sub>20+ projects delivered — 3 showcased here.</sub></p>
 
-<img src="divider.svg" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="divider-light.svg">
+  <img src="divider-light.svg" width="100%" alt="">
+</picture>
 
-## <img src="bullet.svg" width="18" height="18" alt=""> The extension shelf
+## <img src="bullet.svg" width="17" height="17" alt=""> The extension shelf
 
 <table width="100%">
 <tr>
@@ -135,9 +155,13 @@
 <tr><td colspan="3"><img src="spacer.svg" width="100%" alt=""></td></tr>
 </table>
 
-<img src="divider-2.svg" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="divider-2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="divider-2-light.svg">
+  <img src="divider-2-light.svg" width="100%" alt="">
+</picture>
 
-## <img src="bullet.svg" width="18" height="18" alt=""> Contact
+## <img src="bullet.svg" width="17" height="17" alt=""> Contact
 
 - **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
 - **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
@@ -145,4 +169,8 @@
 - **Email:** [therehanco@gmail.com](mailto:therehanco@gmail.com)
 - **Phone/WhatsApp:** [+92 371 358 8966](https://wa.me/923713588966)
 
-<img src="footer.svg" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="footer-light.svg">
+  <img src="footer-light.svg" width="100%" alt="Decorative footer">
+</picture>
