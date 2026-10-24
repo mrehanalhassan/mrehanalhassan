@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="center" valign="middle" width="42%">
-<img src="globe-earth.svg" width="360" alt="Clients worldwide">
+<img src="globe-earth.svg" width="360" height="344" alt="Clients worldwide">
 </td>
 <td align="center" valign="middle" width="58%">
 <h1>M Rehan Al Hassan</h1>
@@ -14,7 +14,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="32" height="32" alt=""> AI automation & data
+## <img src="bullet.svg" width="18" height="18" alt=""> AI automation & data
 
 <table width="100%">
 <tr>
@@ -46,7 +46,7 @@
 
 <img src="divider-2.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="32" height="32" alt=""> By the numbers
+## <img src="bullet.svg" width="18" height="18" alt=""> By the numbers
 
 <table width="100%">
 <tr>
@@ -72,7 +72,7 @@
 
 <img src="divider-3.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="32" height="32" alt=""> Featured builds
+## <img src="bullet.svg" width="18" height="18" alt=""> Featured builds
 
 <table width="100%">
 <tr>
@@ -95,7 +95,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="32" height="32" alt=""> The extension shelf
+## <img src="bullet.svg" width="18" height="18" alt=""> The extension shelf
 
 <table width="100%">
 <tr>
@@ -137,7 +137,7 @@
 
 <img src="divider-2.svg" width="100%" alt=""/>
 
-## <img src="bullet.svg" width="32" height="32" alt=""> Contact
+## <img src="bullet.svg" width="18" height="18" alt=""> Contact
 
 - **Facebook:** [facebook.com/MRehanAlHassan](https://www.facebook.com/MRehanAlHassan)
 - **LinkedIn:** [linkedin.com/in/mrehanalhassan](https://www.linkedin.com/in/mrehanalhassan/)
