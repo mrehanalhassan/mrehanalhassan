@@ -9,8 +9,8 @@
 <circle cx="40" cy="15" r="3" fill="#9DB3D6" opacity="0.7"/>
 <text x="52" y="19" font-family="monospace" font-size="10" fill="#9DB3D6">t-umbrella.com</text>
 <rect x="16" y="42" width="288" height="64" rx="8" fill="url(#hero)"/>
-<circle cx="160" cy="74" r="20" fill="#04060C" opacity="0.55" stroke="#F2C14E" stroke-opacity="0.6"/>
-<g transform="translate(160 74) scale(0.72) translate(-160 -74)">
+<circle cx="160" cy="74" r="26" fill="#04060C" opacity="0.55" stroke="#F2C14E" stroke-opacity="0.6"/>
+<g transform="translate(160 74) scale(0.55) translate(-160 -74)">
 <path d="M 132 78 A 28 28 0 0 1 188 78" fill="rgba(242,193,78,0.18)" stroke="#F2C14E" stroke-width="3" stroke-linecap="round"/><path d="M 160 78 L 160 96" stroke="#F2C14E" stroke-width="3" stroke-linecap="round"/><path d="M 160 96 A 6 6 0 0 0 166 102" fill="none" stroke="#F2C14E" stroke-width="3" stroke-linecap="round"/>
 </g>
 <rect x="16" y="118" width="230" height="7" rx="3.5" fill="#FFFFFF" opacity="0.22"/>
