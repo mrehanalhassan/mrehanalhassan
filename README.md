@@ -1,100 +1,94 @@
 # M Rehan Al Hassan
-### WordPress Developer · Digital Creator · AI Automation
-Pakistan · Clients: USA · UK · Canada
+### AI Tool Builder · Chrome Extension Developer · WordPress Engineer
 
-[LinkedIn](https://www.linkedin.com/in/mrehanalhassan/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
+Building **MR ToolLab** — AI-powered digital tools & software · Based in Pakistan · Working with clients in the **USA, UK & Canada**
+
+[LinkedIn](https://www.linkedin.com/in/mrrehanofficial/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
 
 ---
 
-## Skills
+> **Currently:** expanding the MR ToolLab Chrome-extension suite · taking on select WordPress projects
+
+---
+
+## What I build
 
 ```mermaid
-flowchart TD
-    ME(["M Rehan Al Hassan<br/>WordPress · Elementor · AI Automation"])
-    subgraph WEB["Web development"]
-        WP["WordPress<br/>main focus"]
-        EL["Elementor Pro"]
-        KA["Kadence Pro"]
+flowchart TB
+    ME(["M Rehan Al Hassan<br/>AI tools · Extensions · WordPress"])
+    subgraph TOOLS["MR ToolLab — AI tools & extensions"]
+        EXT["Chrome extensions"]
+        AUT["AI automation"]
     end
-    subgraph CREATE["Creative + AI"]
-        AI["AI Automation"]
-        GD["Graphic Design"]
-        VE["Video Editing"]
+    subgraph WEB["WordPress engineering"]
+        WP["Business websites"]
+        EL["Elementor Pro · Kadence Pro"]
     end
-    ME --> WEB & CREATE
-    WP --> WP1["Business sites · redesigns · landing pages"]
-    EL --> EL1["Custom layouts · visual builds"]
-    KA --> KA1["Lightweight · fast sites"]
-    AI --> AI1["Workflows · data tools"]
-    GD --> GD1["Branding · creatives"]
-    VE --> VE1["Edits · motion design"]
-    classDef me fill:#0B1B33,stroke:#FFD166,stroke-width:3px,color:#FFFFFF
-    classDef skill fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
-    classDef sub fill:#161B22,stroke:#1F6FEB,color:#C9D1D9
+    subgraph CREATIVE["Creative"]
+        GD["Graphic design"]
+        VE["Video editing"]
+    end
+    ME --> TOOLS & WEB & CREATIVE
+    EXT --> EXT1["keyword research · site audit<br/>lead scraper · preview tools"]
+    AUT --> AUT1["workflows · data tools"]
+    WP --> WP1["redesigns · landing pages"]
+    EL --> EL1["custom layouts · fast builds"]
+    GD --> GD1["branding · creatives"]
+    VE --> VE1["edits · motion design"]
+    classDef me fill:#05070D,stroke:#D4AF37,stroke-width:3px,color:#FFFFFF
+    classDef pillar fill:#1D4ED8,stroke:#D4AF37,stroke-width:2px,color:#FFFFFF
+    classDef leaf fill:#0B1220,stroke:#2563EB,color:#C9D1D9
     class ME me
-    class WP,EL,KA,AI,GD,VE skill
-    class WP1,EL1,KA1,AI1,GD1,VE1 sub
-    style WEB fill:#05070D,stroke:#1F6FEB,stroke-dasharray:5 5
-    style CREATE fill:#05070D,stroke:#FFD166,stroke-dasharray:5 5
+    class EXT,AUT,WP,EL,GD,VE pillar
+    class EXT1,AUT1,WP1,EL1,GD1,VE1 leaf
+    style TOOLS fill:#05070D,stroke:#D4AF37,stroke-dasharray:5 5
+    style WEB fill:#05070D,stroke:#2563EB,stroke-dasharray:5 5
+    style CREATIVE fill:#05070D,stroke:#FFFFFF,stroke-dasharray:5 5
 ```
+
+---
+
+## Chrome extensions — the MR ToolLab suite
 
 <details>
-<summary><b>WordPress</b> — main focus</summary>
+<summary><b>Fiverr Keyword & Rank Research</b> — know what clients actually search</summary>
 
-```
-$ rehan --skill wordpress
-> business sites · redesigns · landing pages
-```
+Live keyword and rank tracking for Fiverr sellers — real marketplace data instead of guesses.
 
 </details>
 
 <details>
-<summary><b>Elementor Pro</b></summary>
+<summary><b>Website Audit</b> — SEO, design & performance in one click</summary>
 
-```
-$ rehan --skill elementor-pro
-> custom layouts · visual builds
-```
+Instant audits with clear, actionable insights for any page you visit.
 
 </details>
 
 <details>
-<summary><b>Kadence Pro</b></summary>
+<summary><b>Layout & Responsive Preview</b> — every screen size at once</summary>
 
-```
-$ rehan --skill kadence-pro
-> lightweight fast sites
-```
+Preview page layouts across breakpoints without resizing your browser.
 
 </details>
 
 <details>
-<summary><b>AI Automation</b></summary>
+<summary><b>Image Downloader</b> — grab assets fast</summary>
 
-```
-$ rehan --skill ai-automation
-> workflows · data tools
-```
+Download images from any page in bulk, filtered your way.
 
 </details>
 
 <details>
-<summary><b>Graphic Design</b></summary>
+<summary><b>Google Maps Lead Scraper</b> — turn maps into lead lists</summary>
 
-```
-$ rehan --skill graphic-design
-> branding · creatives
-```
+Collect business leads from Google Maps into clean, usable lists.
 
 </details>
 
 <details>
-<summary><b>Video Editing</b></summary>
+<summary><b>Tasker — Sticky Notes</b> — notes, reminders & tasks</summary>
 
-```
-$ rehan --skill video-editing
-> edits · motion design
-```
+A calm little productivity companion: notes, reminders and task management, right in your browser.
 
 </details>
 
@@ -103,16 +97,17 @@ $ rehan --skill video-editing
 ## Featured builds
 
 ```mermaid
-timeline
-    title Featured builds
-    T-Minus Umbrella : tminusumbrella.com
-    Dialide School : link to be confirmed
-    Darehr : darehr.com
+flowchart LR
+    B1(["T-Minus Umbrella"]) --> B1D["Contractor website<br/>design + build"]
+    B2(["Dar e Arqam School"]) --> B2D["Khanpur · school website"]
+    B3(["The Allied School"]) --> B3D["Mulhal · school website"]
+    classDef build fill:#D4AF37,stroke:#05070D,stroke-width:2px,color:#05070D
+    classDef desc fill:#0B1220,stroke:#D4AF37,color:#C9D1D9
+    class B1,B2,B3 build
+    class B1D,B2D,B3D desc
 ```
 
-- [T-Minus Umbrella →](https://tminusumbrella.com/)
-- Dialide School — link to be confirmed
-- [Darehr →](https://darehr.com/)
+<sub>Live project links shared on request.</sub>
 
 ---
 
@@ -120,12 +115,13 @@ timeline
 
 ```mermaid
 flowchart LR
-    B["3<br/>featured builds"]
-    Y["2023<br/>working since"]
+    E["6<br/>Chrome extensions"]
+    P["50+<br/>projects delivered"]
+    Y["2023<br/>building since"]
     C["3<br/>certificates"]
-    M["3<br/>client markets<br/>USA · UK · Canada"]
-    classDef stat fill:#FFD166,stroke:#0B1B33,stroke-width:2px,color:#0B1B33
-    class B,Y,C,M stat
+    M["3<br/>client markets"]
+    classDef stat fill:#D4AF37,stroke:#05070D,stroke-width:2px,color:#05070D
+    class E,P,Y,C,M stat
 ```
 
 ---
@@ -140,7 +136,7 @@ flowchart LR
 
 ---
 
-## AI automation & data
+## AI automation
 
 <details>
 <summary><b>AI workflows</b> — click to open</summary>
@@ -148,19 +144,19 @@ flowchart LR
 ```mermaid
 flowchart LR
     TR["Trigger"] --> AS["AI step"] --> AM["Automate"] --> RE["Result"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
+    classDef step fill:#1D4ED8,stroke:#D4AF37,stroke-width:2px,color:#FFFFFF
     class TR,AS,AM,RE step
 ```
 
 </details>
 
 <details>
-<summary><b>Data viz</b> — click to open</summary>
+<summary><b>Data pipelines</b> — click to open</summary>
 
 ```mermaid
 flowchart LR
     SO["Sources"] --> CL["Clean"] --> AN["Analyze"] --> DA["Dashboard"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
+    classDef step fill:#1D4ED8,stroke:#D4AF37,stroke-width:2px,color:#FFFFFF
     class SO,CL,AN,DA step
 ```
 
@@ -172,7 +168,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     IN["Input"] --> AA["AI assist"] --> DR["Draft"] --> RV["Review"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
+    classDef step fill:#1D4ED8,stroke:#D4AF37,stroke-width:2px,color:#FFFFFF
     class IN,AA,DR,RV step
 ```
 
@@ -184,7 +180,7 @@ flowchart LR
 ```mermaid
 flowchart LR
     ID["Idea"] --> PR["Prototype"] --> TE["Test"] --> IT["Iterate"]
-    classDef step fill:#1F6FEB,stroke:#FFD166,stroke-width:2px,color:#FFFFFF
+    classDef step fill:#1D4ED8,stroke:#D4AF37,stroke-width:2px,color:#FFFFFF
     class ID,PR,TE,IT step
 ```
 
@@ -207,4 +203,4 @@ flowchart LR
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mrehanalhassan/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
+[LinkedIn](https://www.linkedin.com/in/mrrehanofficial/) · [Facebook](https://www.facebook.com/MRehanAlHassan) · [Blog](https://mrehanalhassan.blogspot.com/) · [Start a project →](mailto:therehanco@gmail.com?subject=Project%20inquiry)
